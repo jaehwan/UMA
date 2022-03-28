@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 9e772eb661ecd8f47af0223ba99ab6ea
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 1
+  m_BundleLocalCatalog: 0
+  m_CatalogRequestsTimeout: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_NonRecursiveBuilding: 0
+  m_maxConcurrentWebRequests: 500
+  m_ContiguousBundles: 0
+  m_StripUnityVersionFromBundleBuild: 0
+  m_DisableVisibleSubAssetRepresentations: 0
+  m_ShaderBundleNaming: 0
+  m_ShaderBundleCustomNaming: 
+  m_MonoScriptBundleNaming: 0
+  m_MonoScriptBundleCustomNaming: 
+  m_RemoteCatalogBuildPath:
+    m_Id: f74cc5b198dc16d41a1ff257ce32ff30
+  m_RemoteCatalogLoadPath:
+    m_Id: a01d28df6abbf5d4f9c0cd87887cefa0
+  m_ContentStateBuildPath: 
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 42dcf54ab2848fe4db59e7576c15a54d, type: 2}
+  - {fileID: 11400000, guid: c568a4b45dbc010438c989c7344090df, type: 2}
+  - {fileID: 11400000, guid: 89b80ff59fdcd64458e916f5486a13d8, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 2673627f8dcb8ee40977b8cb8c444be1
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 78aa077de6e14f8449c60630ea666116
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: d64684abb17094c41bd06e40e5f6fcac
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: fcd753fe396489643b63aa4eeaa119b2
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: f74cc5b198dc16d41a1ff257ce32ff30
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: a01d28df6abbf5d4f9c0cd87887cefa0
+        m_Value: https://maicosmos.com/UMA/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: 78aa077de6e14f8449c60630ea666116
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: d64684abb17094c41bd06e40e5f6fcac
+      m_Name: LocalBuildPath
+      m_InlineUsage: 0
+    - m_Id: fcd753fe396489643b63aa4eeaa119b2
+      m_Name: LocalLoadPath
+      m_InlineUsage: 0
+    - m_Id: f74cc5b198dc16d41a1ff257ce32ff30
+      m_Name: RemoteBuildPath
+      m_InlineUsage: 0
+    - m_Id: a01d28df6abbf5d4f9c0cd87887cefa0
+      m_Name: RemoteLoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - st_male_beard_stub_01_Recipe
+    - st_eyebrows_01_male_Recipe
+    - st_eyebrows_02_male_Recipe
+    - st_eyebrows_03_male_Recipe
+    - st_eyebrows_04_male_Recipe
+    - st_eyebrows_05_male_Recipe
+    - st_buzzcut_male_Recipe
+    - st_long_hair_male_Recipe
+    - st_short_hair_Recipe
+    - o3nStunnerMaleBaseRecipe
+    - st_eyebrows_01_female_Recipe
+    - st_eyebrows_02_female_Recipe
+    - st_eyebrows_03_female_Recipe
+    - st_eyebrows_04_female_Recipe
+    - st_eyebrows_05_female_Recipe
+    - st_female_eye_makeup_Recipe
+    - st_buzzcut_female_Recipe
+    - st_female_hair_ponytail_LOD0_Recipe
+    - st_female_long_hair_Recipe
+    - st_short_hair_female_Recipe
+    - o3nStunnerFemaleBaseRecipe
+    - st_female_dress_01_Classic_Recipe
+    - st_female_dress_01_Denim_Recipe
+    - st_female_dress_01_Knit_Recipe
+    - st_female_dress_01_Plain_Recipe
+    - st_female_dress_01_Stripes_Recipe
+    - st_female_dress_03_Recipe
+    - st_female_pants_01_classic_Recipe
+    - st_female_pants_01_denim_Recipe
+    - st_female_underwear_01_Base_Bra
+    - st_female_underwear_01_Base_Undies
+    - st_female_underwear_01_LacedSatin_Bra
+    - st_female_underwear_01_LacedSatin_Undies
+    - st_female_underwear_01_Transparent_Bra
+    - st_female_underwear_01_Transparent_Undies
+    - st_female_pullover_01_Recipe
+    - st_female_shirt_Recipe
+    - st_female_shirt_05_Recipe
+    - st_female_skirt_Recipe
+    - st_male_pants_01_jeans_Recipe
+    - st_male_pants_blue_jeans_01_Recipe
+    - st_male_shirt_01_Recipe
+    - st_male_shirt_01_squared_Recipe
+    - st_male_shirt_02_long_sleeve_Recipe
+    - st_male_short_01_Recipe
+    - st_male_short_01_squared_Recipe
+    - st_female_high_heels_02_leather_Recipe
+    - st_female_high_heels_02_Recipe
+    - st_female_shoes_Recipe
+    - st_female_shoes_flat_01_denim_Recipe
+    - st_female_shoes_flat_01_Recipe
+    - st_shoes_07_Recipe
+    - st_shoes_07_Recipe_black
+    - st_shoes_07_Recipe_turquoise
+    - st_sneakers_01_Recipe
+    - St_baseball_hat_01_o3n_Recipe
+    - St_baseball_hat_01_Recipe
+    - St_baseball_hat_01_vintage_Recipe
+    - st_female_stockings_01_Recipe
+    - st_male_underwear_01_Recipe
+    - st_socks_01_Recipe
+    - stPhysicsStandardRecipe
+    - CapsuleColliderRecipe
+    - ExpressionsRecipe
+    - ForearmTwistRecipe
+    - LocomotionRecipe
+    - PhysicsHDRecipe
+    - PhysicsStandardRecipe
+    - UMA_Base
+    - UMA_Recipes
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: f7288aff63e646042bfbf6567de807bf, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: aed334e9291d32747a616595a5f6ce43, type: 2}
+  - {fileID: 11400000, guid: 92af1e0913b90594092c7d148a82a08b, type: 2}
+  - {fileID: 11400000, guid: 2757c323afb77dd40994ba39999ce236, type: 2}
+  - {fileID: 11400000, guid: 24007fe0540cf8c4cb6014a8f4710152, type: 2}
+  m_ActiveProfileId: 2673627f8dcb8ee40977b8cb8c444be1
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []
