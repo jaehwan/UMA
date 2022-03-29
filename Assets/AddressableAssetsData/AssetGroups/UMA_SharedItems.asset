@@ -416,6 +416,90 @@ MonoBehaviour:
     - UMA_Base
     - UMA_Recipes
     - o3nStunnerMaleBaseRecipe
+  - m_GUID: 11137d3ffe785ce4aa1abe3d9c3f7715
+    m_Address: UMA/SlotDataAsset-st_male_torso_lower_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Recipes
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: a63267da29bbc7645ba911ad4f7de4c5
+    m_Address: UMA/SlotDataAsset-st_male_leg_upperR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Recipes
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 012c6f1b33ac5894eaea3d7ff1858819
+    m_Address: UMA/SlotDataAsset-st_male_leg_upperL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Recipes
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 009a71f398c223943928b264da3235ce
+    m_Address: UMA/SlotDataAsset-st_male_leg_lowerR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Recipes
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 4697cfe75927b384c910f7972fa6c05e
+    m_Address: UMA/SlotDataAsset-st_male_leg_lowerL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Recipes
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 5731593e82c66a745b217b825487422f
+    m_Address: UMA/SlotDataAsset-st_male_handR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Recipes
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 01cbb1fdbe827104e97c64b2c9f031dc
+    m_Address: UMA/SlotDataAsset-st_male_handL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Recipes
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: d154af0d95536a44198b18f5c856b7fd
+    m_Address: UMA/SlotDataAsset-st_male_footR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Recipes
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 1b4d15d2924f5f04bab99e200f9b2a5a
+    m_Address: UMA/SlotDataAsset-st_male_footL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Recipes
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: d6aed03d231dca247b92bb5a974a385c
+    m_Address: UMA/SlotDataAsset-st_male_arm_upperR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Recipes
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: e76e0b4e8a2107d4ebf4016acecc6c45
+    m_Address: UMA/SlotDataAsset-st_male_arm_upperL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Recipes
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 9d859b3b82b089748a8e9ffde984cd16
+    m_Address: UMA/SlotDataAsset-st_male_arm_lowerR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Recipes
+    - o3nStunnerMaleBaseRecipe
   - m_GUID: 5ba4434c07d19ea428a02a4a766423dd
     m_Address: UMA/OverlayDataAsset-st_male_body_skinPale_Overlay
     m_ReadOnly: 0
