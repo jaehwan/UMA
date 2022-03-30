@@ -452,7 +452,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 120900191}
   m_LocalRotation: {x: -0.018144192, y: 0, z: 0, w: 0.99983543}
-  m_LocalPosition: {x: 0, y: 0.84080034, z: 3.0118164e-10}
+  m_LocalPosition: {x: 0, y: 0.89080036, z: 3.0118164e-10}
   m_LocalScale: {x: 1.0003922, y: 1.0003922, z: 1.0003921}
   m_Children:
   - {fileID: 1133138635}
@@ -1917,7 +1917,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 746996018}
-  m_LocalRotation: {x: 0.3279333, y: -0.0134312175, z: 0.007367445, w: 0.9445767}
+  m_LocalRotation: {x: 0.66444474, y: -0.009589427, z: 0.011946537, w: 0.7471804}
   m_LocalPosition: {x: -0.0000013020341, y: 0.13010041, z: 0.000036622165}
   m_LocalScale: {x: 1.0000002, y: 1.0001963, z: 1.0000002}
   m_Children: []
@@ -4039,7 +4039,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1551072892}
-  m_LocalRotation: {x: 0.00172586, y: 0.88364327, z: -0.46618536, w: 0.042928252}
+  m_LocalRotation: {x: -0.014833445, y: 0.9947813, z: -0.09254344, w: 0.04032099}
   m_LocalPosition: {x: 0.000009752139, y: 0.42400014, z: -0.000011219583}
   m_LocalScale: {x: 1.0000031, y: 0.9999984, z: 0.9999987}
   m_Children:
@@ -4320,7 +4320,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1649477254}
-  m_LocalRotation: {x: -0.001725891, y: 0.8836432, z: -0.4661854, w: -0.04292899}
+  m_LocalRotation: {x: 0.0148337, y: 0.9947813, z: -0.0925435, w: -0.04032169}
   m_LocalPosition: {x: -0.000009767258, y: 0.42400014, z: -0.00001122424}
   m_LocalScale: {x: 1.0000031, y: 0.9999985, z: 0.99999857}
   m_Children:
@@ -5357,7 +5357,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2080565752}
-  m_LocalRotation: {x: 0.3279333, y: 0.0134312175, z: -0.0073674456, w: 0.9445767}
+  m_LocalRotation: {x: 0.66444474, y: 0.009589427, z: -0.011946537, w: 0.7471804}
   m_LocalPosition: {x: 0.000001307884, y: 0.13010041, z: 0.00003661774}
   m_LocalScale: {x: 1.0000002, y: 1.0001963, z: 1.0000004}
   m_Children: []
@@ -5741,6 +5741,10 @@ MonoBehaviour:
       _compatibleRaces:
       - o3n Stunner Jane
       - o3n Stunner John
+    - _recipeName: FemaleShirt1
+      _compatibleRaces:
+      - HumanFemaleDCS
+      - HumanFemale
   raceAnimationControllers:
     defaultAnimationController: {fileID: 9100000, guid: e9562fa2267f43b4f965ada91b46b340, type: 2}
     animators: []
@@ -12698,6 +12702,12 @@ MonoBehaviour:
       _compatibleRaces:
       - o3n Stunner Jane
       - o3n Stunner John
+    - _recipeName: st_female_high_heels_02_leather_Recipe
+      _compatibleRaces:
+      - o3n Stunner Jane
+    - _recipeName: st_female_long_hair_Recipe
+      _compatibleRaces:
+      - o3n Stunner Jane
   raceAnimationControllers:
     defaultAnimationController: {fileID: 9100000, guid: 40db3173a05ae3242b1c182a09b0a183, type: 2}
     animators: []
@@ -12725,7 +12735,7 @@ MonoBehaviour:
       valuesConverted: 0
     - name: Hair
       channelMask:
-      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
       - {r: 1, g: 1, b: 1, a: 1}
       - {r: 1, g: 1, b: 1, a: 1}
       channelAdditiveMask:
@@ -12743,7 +12753,7 @@ MonoBehaviour:
       valuesConverted: 0
     - name: Eyes
       channelMask:
-      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 0.26415092, g: 0.060345076, b: 0, a: 1}
       - {r: 1, g: 1, b: 1, a: 1}
       - {r: 1, g: 1, b: 1, a: 1}
       channelAdditiveMask:
@@ -14670,6 +14680,54 @@ MonoBehaviour:
       Raw: 0
       valuesConverted: 0
     - name: PantsColor01
+      channelMask:
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      channelAdditiveMask:
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      PropertyBlock:
+        alwaysUpdate: 0
+        serializedProperties: []
+      foldout: 0
+      _name: 
+      _color: {r: 1, g: 1, b: 1, a: 1}
+      _metallicGloss: {r: 0, g: 0, b: 0, a: 0}
+      Raw: 0
+      valuesConverted: 0
+    - name: ShoeColor01
+      channelMask:
+      - {r: 0.41568628, g: 0.050980393, b: 0.03529412, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      channelAdditiveMask:
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      PropertyBlock:
+        alwaysUpdate: 0
+        serializedProperties: []
+      foldout: 0
+      _name: 
+      _color: {r: 1, g: 1, b: 1, a: 1}
+      _metallicGloss: {r: 0, g: 0, b: 0, a: 0}
+      Raw: 0
+      valuesConverted: 0
+    - name: ShoeBottomColor
       channelMask:
       - {r: 1, g: 1, b: 1, a: 1}
       - {r: 1, g: 1, b: 1, a: 1}
