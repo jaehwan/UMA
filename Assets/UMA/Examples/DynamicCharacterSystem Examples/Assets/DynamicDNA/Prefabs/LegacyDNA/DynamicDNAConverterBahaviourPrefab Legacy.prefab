@@ -46,7 +46,7 @@ MonoBehaviour:
   _displayValue: 
   dnaTypeHash: 642525823
   _dnaAsset: {fileID: 0}
-  _converterController: {fileID: 0}
+  _converterController: {fileID: 11400000, guid: 6dd0fe615b646b341af56df052410a4c, type: 2}
   _overallModifiers:
     _adjustScale: 0
     _adjustHeight: 1
