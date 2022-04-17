@@ -319,7 +319,6 @@ namespace UMA.CharacterSystem.Examples
 			List<RaceData> races = UMAAssetIndexer.Instance.GetAllAssets<RaceData>();
 			foreach (RaceData rd in races)
 			{
-				Debug.Log("RaceData Name " + rd.raceName);
 				string race = rd.raceName;
 				int i = 0;
 				var recipes = UMAAssetIndexer.Instance.GetRecipes(race);
