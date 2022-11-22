@@ -18,14 +18,10 @@ MonoBehaviour:
   DisplayValue: F_Hair_02_Slot
   compatibleRaces:
   - o3n Stunner Jane
-  - o3n Stunner John
   wardrobeRecipeThumbs:
   - race: o3n Stunner Jane
     filename: 
     thumb: {fileID: 21300000, guid: 03c6257f7fe1aa149852f48c96f60e17, type: 3}
-  - race: o3n Stunner John
-    filename: 
-    thumb: {fileID: 0}
   wardrobeSlot: Hair
   Hides: []
   HideTags: []
