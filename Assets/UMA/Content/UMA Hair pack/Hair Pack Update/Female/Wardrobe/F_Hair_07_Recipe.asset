@@ -20,6 +20,7 @@ MonoBehaviour:
   - HumanFemale
   - HumanFemaleDCS
   - Athletic Human Female 2 RaceData SSS
+  - o3n Stunner Jane
   wardrobeRecipeThumbs:
   - race: HumanFemale
     filename: 
@@ -30,14 +31,19 @@ MonoBehaviour:
   - race: Athletic Human Female 2 RaceData SSS
     filename: 
     thumb: {fileID: 0}
+  - race: o3n Stunner Jane
+    filename: 
+    thumb: {fileID: 0}
   wardrobeSlot: Hair
   Hides: []
   HideTags: []
   suppressWardrobeSlots: []
   activeWardrobeSet: []
   MeshHideAssets: []
-  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"F_Hair_07
-    Band","scale":100,"copyIdx":-1,"overlays":[{"id":"Hair Band_Overlay","colorIdx":0,"rect":[0.0,0.0,0.0,0.0]}]},{"id":"F_Hair_07","scale":100,"copyIdx":-1,"overlays":[{"id":"Hairpack_Hair_Overlay","colorIdx":1,"rect":[0.0,0.0,0.0,0.0]}]}],"colors":[],"fColors":[{"name":"Hair","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"-","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"sharedColorCount":1,"race":"","packedDna":[]}'
+  OverrideDNA:
+    PreloadValues: []
+  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"F_Hair_07
+    Band","scale":100,"copyIdx":-1,"overlays":[{"id":"Hair Band_Overlay","colorIdx":0,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":0.0,"y":0.0,"z":0.0},"rotation":0.0}],"Tags":[],"Races":[]},{"id":"F_Hair_07","scale":100,"copyIdx":-1,"overlays":[{"id":"Hairpack_Hair_Overlay","colorIdx":1,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":0.0,"y":0.0,"z":0.0},"rotation":0.0}],"Tags":[],"Races":[]}],"colors":[],"fColors":[{"name":"Hair","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false},{"name":"-","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false}],"sharedColorCount":1,"race":"","packedDna":[]}'
   IncompatibleRecipes: []
   UserField: 
   replaces: Nothing

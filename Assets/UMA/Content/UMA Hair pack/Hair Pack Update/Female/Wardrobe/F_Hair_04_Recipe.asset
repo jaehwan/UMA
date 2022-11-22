@@ -17,17 +17,13 @@ MonoBehaviour:
   recipeType: Wardrobe
   DisplayValue: F_Hair_04_Slot
   compatibleRaces:
-  - HumanFemaleDCS
   - HumanFemale
-  - Athletic Human Female 2 RaceData SSS
+  - o3n Stunner Jane
   wardrobeRecipeThumbs:
-  - race: HumanFemaleDCS
-    filename: 
-    thumb: {fileID: 0}
   - race: HumanFemale
     filename: 
     thumb: {fileID: 0}
-  - race: Athletic Human Female 2 RaceData SSS
+  - race: o3n Stunner Jane
     filename: 
     thumb: {fileID: 0}
   wardrobeSlot: Hair
@@ -36,7 +32,9 @@ MonoBehaviour:
   suppressWardrobeSlots: []
   activeWardrobeSet: []
   MeshHideAssets: []
-  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"F_Hair_04","scale":100,"copyIdx":-1,"overlays":[{"id":"Hairpack_Hair_Overlay","colorIdx":0,"rect":[0.0,0.0,0.0,0.0]}]}],"colors":[],"fColors":[{"name":"Hair","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"sharedColorCount":1,"race":"","packedDna":[]}'
+  OverrideDNA:
+    PreloadValues: []
+  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"F_Hair_04","scale":100,"copyIdx":-1,"overlays":[{"id":"Hairpack_Hair_Overlay","colorIdx":0,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":0.0,"y":0.0,"z":0.0},"rotation":0.0}],"Tags":[],"Races":[]}],"colors":[],"fColors":[{"name":"Hair","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false}],"sharedColorCount":1,"race":"","packedDna":[]}'
   IncompatibleRecipes: []
   UserField: 
   replaces: Nothing
