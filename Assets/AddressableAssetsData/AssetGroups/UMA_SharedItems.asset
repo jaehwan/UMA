@@ -17,1220 +17,1528 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 7a3a3356d8c4f0f4aa7299d461dc5d0a
   m_SerializeEntries:
-  - m_GUID: 515a46b056a0d8d4d8fc2de3b7f58d29
-    m_Address: UMA/SlotDataAsset-PhysicsStandard
+  - m_GUID: 28864c26b3f4bea4bb382e8ca1b60565
+    m_Address: UMA/OverlayDataAsset-UMA_Toon_F_Body
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - PhysicsStandardRecipe
-  - m_GUID: bc5ef2dcc0274644bb1733e78ad1514d
-    m_Address: UMA/SlotDataAsset-PhysicsHD
+    - UMA_Default
+    - FemaleDancer1
+    - ToonCropTShirt1
+    - ToonDancerCollection
+    - ToonHotPants1
+    - FemaleStarDancer1
+    - ToonCapriPants1
+    - ToonStarDancerCollection
+    - ToonHalterNeck1
+    - FemaleToonBase
+  - m_GUID: 27cecc42eea01ba4080fa8703b35100f
+    m_Address: UMA/SlotDataAsset-Toon_Female_Crop_TShirt_1_TORSO
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - PhysicsHDRecipe
-  - m_GUID: 0fbc0a0bbfb29084bbeafb0876b6e28b
-    m_Address: UMA/SlotDataAsset-Locomotion
+    - UMA_Default
+    - FemaleDancer1
+    - ToonCropTShirt1
+    - ToonDancerCollection
+  - m_GUID: 5c36f948b8e7aab409933dec824d011d
+    m_Address: UMA/OverlayDataAsset-Crop_TShirt_1_detail
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - LocomotionRecipe
-  - m_GUID: 98c6dc40a5e2e4f3f92aabfafaf67c78
-    m_Address: UMA/SlotDataAsset-ForearmTwist
+    - UMA_Default
+    - FemaleDancer1
+    - ToonCropTShirt1
+    - ToonDancerCollection
+  - m_GUID: b97f19d37b372b14b894ee308237f40c
+    m_Address: UMA/OverlayDataAsset-Crop_TShirt_1
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - ForearmTwistRecipe
-  - m_GUID: edcf92bdef3d2e04c980749f7d702647
-    m_Address: UMA/SlotDataAsset-Expressions
+    - UMA_Default
+    - FemaleDancer1
+    - ToonCropTShirt1
+    - ToonDancerCollection
+  - m_GUID: ca20f7bc9c16c314991839b46ccfd3f4
+    m_Address: UMA/SlotDataAsset-Tops_Female_Crop_TShirt_1
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - ExpressionsRecipe
+    - UMA_Default
+    - FemaleDancer1
+    - ToonCropTShirt1
+    - ToonDancerCollection
+  - m_GUID: a5cb9c792e8a0684da24546a08a4ab2a
+    m_Address: UMA/OverlayDataAsset-Sneakers_1_detail
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleDancer1
+    - ToonSneakers1
+    - ToonDancerCollection
+  - m_GUID: faede5ef802a4d04080266de31601bc8
+    m_Address: UMA/OverlayDataAsset-Sneakers_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleDancer1
+    - ToonSneakers1
+    - ToonDancerCollection
+  - m_GUID: e3c19ea60a30aca45aabae54d1068387
+    m_Address: UMA/SlotDataAsset-Shoes_Sneakers_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleDancer1
+    - ToonSneakers1
+    - ToonDancerCollection
+  - m_GUID: f1aa0614c0ce2f242a448e8f80248623
+    m_Address: UMA/SlotDataAsset-MakeMeFatJeans
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MakeMeFatJeans
+  - m_GUID: 82e2d1671a9ac524d805de01b9408543
+    m_Address: UMA/SlotDataAsset-ElfEarsMorph
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ElfEarsMorph
   - m_GUID: 04442629189f10a48bc3238f44aa9856
     m_Address: UMA/SlotDataAsset-CapsuleCollider
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
+    - AlienHeadMorph
     - CapsuleColliderRecipe
-  - m_GUID: 085106ddf5f035f48937f00ae0afd207
-    m_Address: UMA/OverlayDataAsset-st_male_head_skinPale_Overlay
+  - m_GUID: 19ca51fa9b344074ebeaad4c873fd125
+    m_Address: UMA/OverlayDataAsset-M_Face
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 44affbe521844394b910b265b0dcd585
-    m_Address: UMA/OverlayDataAsset-st_male_head_nose_pronounced_out_Overlay
+    - UMA_Default
+    - AlienHeadMorph
+    - ElfEarsMorph
+    - ElfMale Base Recipe
+    - HumanMale Base Recipe
+    - HumanMaleHighPoly
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - Puck
+    - PuckDCS
+    - DNAConverterControllerExample Base Recipe
+    - Harold
+    - Sven
+  - m_GUID: 344a9e3f0f0a6384da7335c405e65999
+    m_Address: UMA/SlotDataAsset-MaleAlienHead
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 2cfbff1dac239ef488949c310ec93fa0
-    m_Address: UMA/OverlayDataAsset-st_male_head_nose_pronounced_in_Overlay
+    - UMA_Default
+    - AlienHeadMorph
+    - Puck
+    - PuckDCS
+  - m_GUID: 7035932bba9111c4991e2489ca9b744b
+    m_Address: UMA/SlotDataAsset-Trollface_slot
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 66ece42395d244b4b9a0679bb63f0598
-    m_Address: UMA/OverlayDataAsset-st_male_head_nose_position_up_Overlay
+    - UMA_Default
+    - TrollHead
+  - m_GUID: a6cf693702694d2448630418e711ffe6
+    m_Address: UMA/SlotDataAsset-OverweightMale_Slot
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: cf394ab6cad574c42980b697a35f5e4e
-    m_Address: UMA/OverlayDataAsset-st_male_head_nose_position_down_Overlay
+    - UMA_Default
+    - OverweightMale
+  - m_GUID: a60d5c517fee0ce48b5b59b9ed45861e
+    m_Address: UMA/OverlayDataAsset-MaleHead01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 35ed50f8a25c7424f895ae756b4940e2
-    m_Address: UMA/OverlayDataAsset-st_male_head_nose_inclination_up_Overlay
+    - UMA_Default
+    - BlendShapeRecipe
+  - m_GUID: 36832eb4f58c963418b5be22d9a7eafb
+    m_Address: UMA/SlotDataAsset-MaleEarsMorph
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 1006e46d989d9bc4492567a2eac3e277
-    m_Address: UMA/OverlayDataAsset-st_male_head_nose_inclination_down_Overlay
+    - UMA_Default
+    - BlendShapeRecipe
+    - Puck
+    - PuckDCS
+  - m_GUID: e1d97dc2d72547c469e6d818540c89d2
+    m_Address: UMA/SlotDataAsset-Male_Hair_17
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 91b90aa67445ce348949a2e378f9e9b6
-    m_Address: UMA/OverlayDataAsset-st_male_head_nose_flatten_out_Overlay
+    - UMA_Default
+    - Male_Hair_17_Recipe
+  - m_GUID: 82db9729e5955cf4c926dbf9766f22dc
+    m_Address: UMA/SlotDataAsset-Male_Hair_16
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 61615b56304424f42a64c49fefb257ce
-    m_Address: UMA/OverlayDataAsset-st_male_head_nose_flatten_in_Overlay
+    - UMA_Default
+    - Male_Hair_16_Recipe
+  - m_GUID: d2b0ca967c6f6c94ab899ce1a1920fe5
+    m_Address: UMA/SlotDataAsset-Male_Hair_15_Band
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 9000997b071c57447addc5a1e82ed062
-    m_Address: UMA/OverlayDataAsset-st_male_head_nose_curve_out_Overlay
+    - UMA_Default
+    - Male_Hair_15_Recipe
+  - m_GUID: e8fe4f988c419114cacd3bcd9aa41ab2
+    m_Address: UMA/SlotDataAsset-Male_Hair_15
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: ac4fb3dd05b4b3c48beeb2b86c08c2a2
-    m_Address: UMA/OverlayDataAsset-st_male_head_nose_curve_in_Overlay
+    - UMA_Default
+    - Male_Hair_15_Recipe
+  - m_GUID: 7d19332edcfe55941ae8497407b8e856
+    m_Address: UMA/SlotDataAsset-Male_Hair_14_Band
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: b3738ee40ccdba0458b8c9cd60fd3c59
-    m_Address: UMA/OverlayDataAsset-st_male_head_nose_bridge_out_Overlay
+    - UMA_Default
+    - Male_Hair_14_Recipe
+  - m_GUID: c41010b0bb4c6ec4d9930ade74db73d6
+    m_Address: UMA/SlotDataAsset-Male_Hair_14
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: d2cde344ebfad3241a2432776a611f56
-    m_Address: UMA/OverlayDataAsset-st_male_head_nose_bridge_in_Overlay
+    - UMA_Default
+    - Male_Hair_14_Recipe
+  - m_GUID: 9532d3ec63bc9994fae9a3795dac5d9e
+    m_Address: UMA/SlotDataAsset-Male_Hair_13
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 65465f2a0230b494c8d599ea09476b52
-    m_Address: UMA/OverlayDataAsset-st_male_head_mouth_size_wide_Overlay
+    - UMA_Default
+    - Male_Hair_13_Recipe
+  - m_GUID: 0b120ec7396834f40a4ac2a3c37de3e3
+    m_Address: UMA/SlotDataAsset-Male_Hair_12
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: c6d599d6bd4367d42a60f7a879af0859
-    m_Address: UMA/OverlayDataAsset-st_male_head_mouth_size_narrow_Overlay
+    - UMA_Default
+    - Male_Hair_12_Recipe
+  - m_GUID: e4a11c000ce74874eb38472b4f2d1f4b
+    m_Address: UMA/SlotDataAsset-Male_Hair_11
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 042c5f5cb610f7c40a5dd230d7ddc4f3
-    m_Address: UMA/OverlayDataAsset-st_male_head_mouth_pronounced_out_Overlay
+    - UMA_Default
+    - Male_Hair_11_Recipe
+  - m_GUID: f1408295726ce9e499d534670ce9dfca
+    m_Address: UMA/SlotDataAsset-M_Hair_09
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 6bba8f50c27f27b42be9d932667816d3
-    m_Address: UMA/OverlayDataAsset-st_male_head_mouth_pronounced_in_Overlay
+    - UMA_Default
+    - M_Hair_09_Recipe
+  - m_GUID: 7fedf47d4691fa14da5770d1056e4533
+    m_Address: UMA/SlotDataAsset-M_Hair_08
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 10d1a5a12da9d314ab81d8ce8c1f6815
-    m_Address: UMA/OverlayDataAsset-st_male_head_mouth_position_up_Overlay
+    - UMA_Default
+    - M_Hair_08_Recipe
+  - m_GUID: 1f7ae79dcecdd874a89e9c57dfd68f0c
+    m_Address: UMA/SlotDataAsset-M_Hair_06
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 085ab896eab0a4f49a4e99c4a6536d8f
-    m_Address: UMA/OverlayDataAsset-st_male_head_mouth_position_down_Overlay
+    - UMA_Default
+    - M_Hair_06_Recipe
+  - m_GUID: 48df328a58b49934a971ce220a9568be
+    m_Address: UMA/SlotDataAsset-M_Hair_05
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: cbee2a5a54ae5614085c15469a6d33c8
-    m_Address: UMA/OverlayDataAsset-st_male_head_mandible_size_out_Overlay
+    - UMA_Default
+    - M_Hair_05_Recipe
+  - m_GUID: 188c29fcadc9e464280690617020e120
+    m_Address: UMA/SlotDataAsset-M_Hair_04
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: d636c9c7a95524644b4716daf78b7cf9
-    m_Address: UMA/OverlayDataAsset-st_male_head_mandible_size_in_Overlay
+    - UMA_Default
+    - M_Hair_04_Recipe
+  - m_GUID: eed696efe23c0ff4eb83c47688d3151d
+    m_Address: UMA/SlotDataAsset-M_Hair_03_Band
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: d7b39d96908ce4e448295262d2ff22d7
-    m_Address: UMA/OverlayDataAsset-st_male_head_low_cheek_size_out_Overlay
+    - UMA_Default
+    - M_Hair_03_Recipe
+  - m_GUID: 2a570e9d0d31c804e9417833cb62ee47
+    m_Address: UMA/SlotDataAsset-M_Hair_03
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: da7299093466df44ba2e6b3c61feeac5
-    m_Address: UMA/OverlayDataAsset-st_male_head_low_cheek_size_in_Overlay
+    - UMA_Default
+    - M_Hair_03_Recipe
+  - m_GUID: 515b809bc7527d14486af5901d9c1007
+    m_Address: UMA/SlotDataAsset-M_Hair_02
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: b7e5e35c0d605b14aa59c35f532fd45c
-    m_Address: UMA/OverlayDataAsset-st_male_head_lips_size_small_Overlay
+    - UMA_Default
+    - M_Hair_02_Recipe
+  - m_GUID: f245fe32050b71540b9577ffef945ebe
+    m_Address: UMA/SlotDataAsset-M_Hair_01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: e477b417bd745784684b1333275b2c2d
-    m_Address: UMA/OverlayDataAsset-st_male_head_lips_size_big_Overlay
+    - UMA_Default
+    - M_Hair_01_Recipe
+  - m_GUID: c5b10af6bf914f447b680ae5c22ce7b6
+    m_Address: UMA/SlotDataAsset-M_Beard 05
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 63821e6ef0f297c4dbdc5e0856f23e1e
-    m_Address: UMA/OverlayDataAsset-st_male_head_jaws_size_small_Overlay
+    - UMA_Default
+    - M_Beard 05_Recipe
+  - m_GUID: 97aa0d8e066956c4aa167173229b4555
+    m_Address: UMA/SlotDataAsset-M_Beard 04
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 15c201963e8f512418550574742a6177
-    m_Address: UMA/OverlayDataAsset-st_male_head_jaws_size_big_Overlay
+    - UMA_Default
+    - M_Beard 04_Recipe
+  - m_GUID: 224b8d05c88002248aaea97007082ce1
+    m_Address: UMA/SlotDataAsset-M_Beard 03
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 395db6034eabcb3408aae595f922966c
-    m_Address: UMA/OverlayDataAsset-st_male_head_jaws_position_up_Overlay
+    - UMA_Default
+    - M_Beard 03_Recipe
+  - m_GUID: ff78eee0b1549ab44b84993985eb59c7
+    m_Address: UMA/SlotDataAsset-M_Beard 02
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 54730a89ba4e2b54881c18f069210cd6
-    m_Address: UMA/OverlayDataAsset-st_male_head_jaws_position_down_Overlay
+    - UMA_Default
+    - M_Beard 02_Recipe
+  - m_GUID: b68ca07b653d4174080bc5f064b1e9c2
+    m_Address: UMA/OverlayDataAsset-M_Beard standard Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 41054c13aa9580046b748ed3065f52ae
-    m_Address: UMA/OverlayDataAsset-st_male_head_forehead_size_fwd_Overlay
+    - UMA_Default
+    - M_Beard 01_Recipe
+    - M_Beard 02_Recipe
+    - M_Beard 03_Recipe
+    - M_Beard 04_Recipe
+    - M_Beard 05_Recipe
+  - m_GUID: 708b4e6fef017884b90734dc9b6ea412
+    m_Address: UMA/SlotDataAsset-M_Beard 01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 80d1c76d8adad6e468b75907a66423c6
-    m_Address: UMA/OverlayDataAsset-st_male_head_forehead_size_bck_Overlay
+    - UMA_Default
+    - M_Beard 01_Recipe
+  - m_GUID: 24f8bcd5e9cdd0140b44907129c437bc
+    m_Address: UMA/SlotDataAsset-F_Hair_18
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 2b9682e9bdcb16a43b3b5066a0e7b3f4
-    m_Address: UMA/OverlayDataAsset-st_male_head_forehead_position_up_Overlay
+    - UMA_Default
+    - F_Hair_18_Recipe
+  - m_GUID: e6a2b0f5963ff7e409e37c84695f37e5
+    m_Address: UMA/SlotDataAsset-F_Hair_17
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: b18397c31a45f7347ba3286e8c6bb456
-    m_Address: UMA/OverlayDataAsset-st_male_head_forehead_position_down_Overlay
+    - UMA_Default
+    - F_Hair_17_Recipe
+  - m_GUID: 69fda1ef30950204489cb135819997b8
+    m_Address: UMA/SlotDataAsset-F_Hair_16
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: d8b6b2c82dff7234b9cf94adeebff3a7
-    m_Address: UMA/OverlayDataAsset-st_male_head_eye_size_small_Overlay
+    - UMA_Default
+    - F_Hair_16_Recipe
+  - m_GUID: f3775409fc815ae4d810b658370862e8
+    m_Address: UMA/SlotDataAsset-F_Hair_15
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: e70d018263e242c40a86a5c20ff315da
-    m_Address: UMA/OverlayDataAsset-st_male_head_eye_size_big_Overlay
+    - UMA_Default
+    - F_Hair_15_Recipe
+  - m_GUID: 974a4293a7d58054ca403f3df1278578
+    m_Address: UMA/SlotDataAsset-F_Hair_14
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 388f5cdbb85a5f141a33d55a63e106aa
-    m_Address: UMA/OverlayDataAsset-st_male_head_eye_depth_out_Overlay
+    - UMA_Default
+    - F_Hair_14_Recipe
+  - m_GUID: 827ec735453c4a74782134e986044d1b
+    m_Address: UMA/SlotDataAsset-F_Hair_13_Band
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: cfa4b3ae429452847beb6091be2ac2a2
-    m_Address: UMA/OverlayDataAsset-st_male_head_eye_depth_in_Overlay
+    - UMA_Default
+    - F_Hair_13_Recipe
+  - m_GUID: 3b289087153850f47bfd6914672991a6
+    m_Address: UMA/SlotDataAsset-F_Hair_13
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 0b21b940845e125428ebb980a1c99b96
-    m_Address: UMA/OverlayDataAsset-st_male_head_chin_size_narrow_Overlay
+    - UMA_Default
+    - F_Hair_13_Recipe
+  - m_GUID: 49496d25a8b4518429f2f8848a285e6c
+    m_Address: UMA/SlotDataAsset-F_Hair_12
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 3b1136ecece1c0a42a4a400bc5d18c15
-    m_Address: UMA/OverlayDataAsset-st_male_head_chin_size_large_Overlay
+    - UMA_Default
+    - F_Hair_12_Recipe
+  - m_GUID: 731f8b3eaa5fe1541940eb34715d747f
+    m_Address: UMA/SlotDataAsset-F_Hair_11
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 3872cf19e20436a4d850b884152837ad
-    m_Address: UMA/OverlayDataAsset-st_male_head_chin_pronounced_out_Overlay
+    - UMA_Default
+    - F_Hair_11_Recipe
+  - m_GUID: d55d3f07ae2391847b6d35a63f2bcb39
+    m_Address: UMA/SlotDataAsset-F_Hair_09
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 7a49158b3d3bfe44c98376ed683722f2
-    m_Address: UMA/OverlayDataAsset-st_male_head_chin_pronounced_in_Overlay
+    - UMA_Default
+    - F_Hair_09_Recipe
+  - m_GUID: 9818acbad2ca55144831a58fff6b1705
+    m_Address: UMA/SlotDataAsset-F_Hair_08
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 3854c88007c62f34cbd858377c928ea5
-    m_Address: UMA/OverlayDataAsset-st_male_head_cheek_size_small_Overlay
+    - UMA_Default
+    - F_Hair_08_Recipe
+  - m_GUID: e905008884f16614bb76523f1fe66571
+    m_Address: UMA/SlotDataAsset-F_Hair_07
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 5d31ff515ba6feb47a82412019ac3397
-    m_Address: UMA/OverlayDataAsset-st_male_head_cheek_size_big_Overlay
+    - UMA_Default
+    - F_Hair_07_Recipe
+  - m_GUID: cd54caff9faa3e549a0759828d637cc2
+    m_Address: UMA/SlotDataAsset-F_Hair_07 Band
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: c23bdcdfaf1ed9a4dbdb69432fdd4bf6
-    m_Address: UMA/OverlayDataAsset-st_male_head_cheek_pos_up_Overlay
+    - UMA_Default
+    - F_Hair_07_Recipe
+  - m_GUID: d531d6eedb8301a498e3e494645716dc
+    m_Address: UMA/SlotDataAsset-F_Hair_06_Band
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: bdaaea59c860ede4ba5ee79eb97bd2d3
-    m_Address: UMA/OverlayDataAsset-st_male_head_cheek_pos_down_Overlay
+    - UMA_Default
+    - F_Hair_06_Recipe
+  - m_GUID: 5218108a8676723479a27a38506bde83
+    m_Address: UMA/SlotDataAsset-F_Hair_06
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: a0a940b7e81d65849a7d1fcce1fb491d
-    m_Address: UMA/OverlayDataAsset-st_male_head_muscle_Overlay
+    - UMA_Default
+    - F_Hair_06_Recipe
+  - m_GUID: 688133607be1ab4478a3a067552161ec
+    m_Address: UMA/OverlayDataAsset-Hair Band_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: d07a8d274f449ab4782e8f6ec3a477ea
-    m_Address: UMA/OverlayDataAsset-st_male_head_child_Overlay
+    - UMA_Default
+    - F_Hair_05_Recipe
+    - F_Hair_06_Recipe
+    - F_Hair_07_Recipe
+    - F_Hair_13_Recipe
+    - M_Hair_03_Recipe
+    - Male_Hair_14_Recipe
+    - Male_Hair_15_Recipe
+  - m_GUID: 4cd47d692e1e5434f9c692a9d11325ed
+    m_Address: UMA/SlotDataAsset-F_Hair_05_band
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: d968784d839da7b47bd2975ce64e4433
-    m_Address: UMA/OverlayDataAsset-st_male_head_thin_Overlay
+    - UMA_Default
+    - F_Hair_05_Recipe
+  - m_GUID: 6464d2648e0237048b92ebc70275d54f
+    m_Address: UMA/SlotDataAsset-F_Hair_05
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: dd1f05358d253194a88594e9a1712e56
-    m_Address: UMA/OverlayDataAsset-st_male_head_fat_Overlay
+    - UMA_Default
+    - F_Hair_05_Recipe
+  - m_GUID: db615cf96f6c8754d91d47b84ae6c7c1
+    m_Address: UMA/SlotDataAsset-hair_04
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 4f040a38baafc374d82ee99d48fa58c8
-    m_Address: UMA/OverlayDataAsset-male_base_head_Normal_Overlay
+    - UMA_Default
+    - F_Hair_04_Recipe
+  - m_GUID: 1f2d9c6ed47ae954ea799698a940ab0f
+    m_Address: UMA/OverlayDataAsset-Hairpack_Hair_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: c12de43d22046ff4b840edc9d56ac0df
-    m_Address: UMA/OverlayDataAsset-st_male_head_Overlay
+    - UMA_Default
+    - F_Hair_03_Recipe
+    - F_Hair_05_Recipe
+    - F_Hair_06_Recipe
+    - F_Hair_07_Recipe
+    - F_Hair_08_Recipe
+    - F_Hair_09_Recipe
+    - F_Hair_11_Recipe
+    - F_Hair_12_Recipe
+    - F_Hair_13_Recipe
+    - F_Hair_14_Recipe
+    - F_Hair_15_Recipe
+    - F_Hair_16_Recipe
+    - F_Hair_17_Recipe
+    - F_Hair_18_Recipe
+    - M_Hair_01_Recipe
+    - M_Hair_02_Recipe
+    - M_Hair_03_Recipe
+    - M_Hair_04_Recipe
+    - M_Hair_05_Recipe
+    - M_Hair_06_Recipe
+    - M_Hair_08_Recipe
+    - M_Hair_09_Recipe
+    - Male_Hair_11_Recipe
+    - Male_Hair_12_Recipe
+    - Male_Hair_13_Recipe
+    - Male_Hair_14_Recipe
+    - Male_Hair_15_Recipe
+    - Male_Hair_16_Recipe
+    - Male_Hair_17_Recipe
+  - m_GUID: 13aeb5a7f6241b14298a83e4acce96ac
+    m_Address: UMA/SlotDataAsset-F_Hair_03
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 11137d3ffe785ce4aa1abe3d9c3f7715
-    m_Address: UMA/SlotDataAsset-st_male_torso_lower_LOD0
+    - UMA_Default
+    - F_Hair_03_Recipe
+  - m_GUID: c811bfd1fffe54f4f84a94cbb6e94c7e
+    m_Address: UMA/SlotDataAsset-Layer 2 top
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: a63267da29bbc7645ba911ad4f7de4c5
-    m_Address: UMA/SlotDataAsset-st_male_leg_upperR_LOD0
+    - UMA_Default
+    - F_Hair_02_Recipe
+  - m_GUID: 518d96f7d2e02c64fabaae557f83e781
+    m_Address: UMA/SlotDataAsset-F_01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 012c6f1b33ac5894eaea3d7ff1858819
-    m_Address: UMA/SlotDataAsset-st_male_leg_upperL_LOD0
+    - UMA_Default
+    - F_Hair_01_Recipe
+  - m_GUID: 4e3423fc7dbaee44397ec91baa5ce828
+    m_Address: UMA/OverlayDataAsset-M_Underwear
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 009a71f398c223943928b264da3235ce
-    m_Address: UMA/SlotDataAsset-st_male_leg_lowerR_LOD0
+    - UMA_Default
+    - MaleUnderwear
+  - m_GUID: 7c94cdeabfed7814d9717b1f8b5a49ba
+    m_Address: UMA/OverlayDataAsset-MaleUnderwear_hearts
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 4697cfe75927b384c910f7972fa6c05e
-    m_Address: UMA/SlotDataAsset-st_male_leg_lowerL_LOD0
+    - UMA_Default
+    - MaleShorts2
+    - CHALLENGERCOLLECTION
+  - m_GUID: 4e443d543c17d314984f1bf934677b05
+    m_Address: UMA/OverlayDataAsset-MaleUnderwear01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 5731593e82c66a745b217b825487422f
-    m_Address: UMA/SlotDataAsset-st_male_handR_LOD0
+    - UMA_Default
+    - MaleShorts1
+    - MaleShorts2
+    - CHALLENGERCOLLECTION
+    - Puck
+    - PuckDCS
+    - Harold
+    - Troll
+    - MaleUnderwear
+  - m_GUID: bc78262a19833744f9ee5b3389aec814
+    m_Address: UMA/OverlayDataAsset-MaleShirt01Color
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 01cbb1fdbe827104e97c64b2c9f031dc
-    m_Address: UMA/SlotDataAsset-st_male_handL_LOD0
+    - UMA_Default
+    - MaleShirt1
+    - MaleShirt3
+  - m_GUID: 43b1b1d7ba147c648a052d284467dcf7
+    m_Address: UMA/OverlayDataAsset-MaleShirt01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: d154af0d95536a44198b18f5c856b7fd
-    m_Address: UMA/SlotDataAsset-st_male_footR_LOD0
+    - UMA_Default
+    - MaleShirt1
+    - MaleShirt2
+    - MaleShirt3
+    - MaleOutfit1
+  - m_GUID: 42352aba049ed6d4494cafe7e3bbadc0
+    m_Address: UMA/OverlayDataAsset-M_Freebie Robeset Robe AC
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 1b4d15d2924f5f04bab99e200f9b2a5a
-    m_Address: UMA/SlotDataAsset-st_male_footL_LOD0
+    - UMA_Default
+    - MaleRobe
+    - RobeCollection
+  - m_GUID: c901b9f1e6dc2dd4190fe7ae4272a633
+    m_Address: UMA/OverlayDataAsset-M_Freebie Robeset Robe
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: d6aed03d231dca247b92bb5a974a385c
-    m_Address: UMA/SlotDataAsset-st_male_arm_upperR_LOD0
+    - UMA_Default
+    - MaleRobe
+    - RobeCollection
+  - m_GUID: 8aae7e72162c0c74b9326dbca416651a
+    m_Address: UMA/SlotDataAsset-M_Freebie Robeset Robe_Slot
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: e76e0b4e8a2107d4ebf4016acecc6c45
-    m_Address: UMA/SlotDataAsset-st_male_arm_upperL_LOD0
+    - UMA_Default
+    - MaleRobe
+    - RobeCollection
+  - m_GUID: 4708a9c854404ac48b9f7e39847a91db
+    m_Address: UMA/OverlayDataAsset-M_Freebie Robeset Boots
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 9d859b3b82b089748a8e9ffde984cd16
-    m_Address: UMA/SlotDataAsset-st_male_arm_lowerR_LOD0
+    - UMA_Default
+    - MaleRobe Shoes
+    - RobeCollection
+  - m_GUID: a0554501454a6ba40a5eff3443477dc4
+    m_Address: UMA/SlotDataAsset-M_Freebie Robeset Boots_Slot
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 5ba4434c07d19ea428a02a4a766423dd
-    m_Address: UMA/OverlayDataAsset-st_male_body_skinPale_Overlay
+    - UMA_Default
+    - MaleRobe Shoes
+    - RobeCollection
+  - m_GUID: e37a792c969bb454c804c435f8c1c285
+    m_Address: UMA/OverlayDataAsset-M_Freebie Robeset Hood AC
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 96c409f233d83634fbae405b5359ad69
-    m_Address: UMA/OverlayDataAsset-st_male_body_muscle_upper_Overlay
+    - UMA_Default
+    - MaleRobe Hood
+    - RobeCollection
+  - m_GUID: 33cad728009b0ab439083a8ddf6a92ba
+    m_Address: UMA/OverlayDataAsset-M_Freebie Robeset Hood
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 8b4f0c852fc79b042931ebbb741a5932
-    m_Address: UMA/OverlayDataAsset-st_male_body_muscle_lower_Overlay
+    - UMA_Default
+    - MaleRobe Hood
+    - RobeCollection
+  - m_GUID: 356925f858219b04797c21d4cb7a43f4
+    m_Address: UMA/SlotDataAsset-M_Freebie Robeset Hood_Slot
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: e0333ee0d49b40140b3b563397a0feff
-    m_Address: UMA/OverlayDataAsset-st_male_body_child_Overlay
+    - UMA_Default
+    - MaleRobe Hood
+    - RobeCollection
+  - m_GUID: 161a5c050c3f1f74fb47075770f15450
+    m_Address: UMA/OverlayDataAsset-Wrapped Pants
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: c0da1a8a73b5773419d61f7767fcac76
-    m_Address: UMA/OverlayDataAsset-st_male_body_thin_upper_Overlay
+    - UMA_Default
+    - MalePants
+  - m_GUID: 8af4a60576514c7478104a0a50713222
+    m_Address: UMA/SlotDataAsset-M_Wrapped Pants
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 2248760739c195c469759b09563fe7b3
-    m_Address: UMA/OverlayDataAsset-st_male_body_thin_lower_Overlay
+    - UMA_Default
+    - MalePants
+  - m_GUID: 65887f0e5072b8b499a7760e4392741d
+    m_Address: UMA/OverlayDataAsset-MaleJeans01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: c4078d160738c11459eb8bb698b471df
-    m_Address: UMA/OverlayDataAsset-male_breast_muscle_tone_Normal_Overlay
+    - UMA_Default
+    - MaleJeans
+    - MakeMeFatJeans
+    - Sven
+    - MaleOutfit1
+  - m_GUID: db59a2fec12e144498fed4c62c157859
+    m_Address: UMA/SlotDataAsset-MaleJeans02
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 77f2cc17ab4531f47bc0a0ffec833855
-    m_Address: UMA/OverlayDataAsset-st_male_body_breast_big_Overlay
+    - UMA_Default
+    - MaleJeans
+    - Sven
+  - m_GUID: d0f7dbe2fc5d2564e903f99bd19fa89b
+    m_Address: UMA/OverlayDataAsset-MaleJeans02
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 6823526383acd3b4c8ca760fb85c5fe9
-    m_Address: UMA/OverlayDataAsset-st_male_body_breast_small_Overlay
+    - UMA_Default
+    - MaleJeans 1
+  - m_GUID: 2041a0dad0ad3894ea9590072acacf65
+    m_Address: UMA/SlotDataAsset-MaleLegs
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 524adb51115c77b4eb6a8417dd68a5de
-    m_Address: UMA/OverlayDataAsset-st_male_body_belly_big_Overlay
+    - UMA_Default
+    - MaleJeans 1
+    - MaleShorts1
+    - MaleShorts2
+    - CHALLENGERCOLLECTION
+    - MaleUnderwear
+    - ElfMale Base Recipe
+    - HumanMale Base Recipe
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - Puck
+    - PuckDCS
+    - DNAConverterControllerExample Base Recipe
+    - Harold
+    - Troll
+    - MaleBase2
+  - m_GUID: 10329f729c6ed4b4795e6c1986c8a496
+    m_Address: UMA/OverlayDataAsset-MaleHair01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: ecf2bcec23ea5a847855669fb678a5fe
-    m_Address: UMA/OverlayDataAsset-st_male_body_fat_upper_Overlay
+    - UMA_Default
+    - MaleHair3
+    - Harold
+  - m_GUID: b5a79dacb1617ae44a91c53832515bbb
+    m_Address: UMA/SlotDataAsset-MaleHair1
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 59841d66f5be6394db17316890986d27
-    m_Address: UMA/OverlayDataAsset-st_male_body_fat_lower_Overlay
+    - UMA_Default
+    - MaleHair2
+  - m_GUID: 8583b6d72b2766c40a789f2f24e2de26
+    m_Address: UMA/OverlayDataAsset-Gloves of Hammer Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 50927cd2faecda943a23598482f25251
-    m_Address: UMA/OverlayDataAsset-st_male_body_Overlay
+    - UMA_Default
+    - MaleGloves
+  - m_GUID: 2bdd7530c4c3080479f05405559b6f67
+    m_Address: UMA/SlotDataAsset-_Gloves of Hammer
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 03eabf52df07ab142a6241d4c73ea986
-    m_Address: UMA/SlotDataAsset-st_male_arm_lowerL_LOD0
+    - UMA_Default
+    - MaleGloves
+  - m_GUID: 74fbe497c697690488fbdfeee0fae3d6
+    m_Address: UMA/OverlayDataAsset-M_Face_Old
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: f0b7c5b85624e6947b881d7be75b854c
-    m_Address: UMA/SlotDataAsset-st_toesR_LOD0
+    - UMA_Default
+    - MaleFace Old
+    - TrollHead
+    - Troll
+  - m_GUID: 10d1e2ac030a2d54e8dffe526204097f
+    m_Address: UMA/OverlayDataAsset-Eye_Large_Adjust
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: ffbcd2a840eb1dd40bcae196ffa5194c
-    m_Address: UMA/SlotDataAsset-st_toesL_LOD0
+    - UMA_Default
+    - MaleEye5
+  - m_GUID: 76a2d7b941eeeda4ba2df5ea0e2fb266
+    m_Address: UMA/OverlayDataAsset-Cat_eye_Alternate_adjust
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: ac39f25de9463754689233612e676296
-    m_Address: UMA/OverlayDataAsset-st_inner_mouth_skinPale_Overlay
+    - UMA_Default
+    - MaleEye4
+  - m_GUID: 2c830213a9d6eef409a4b7ce0e388acf
+    m_Address: UMA/OverlayDataAsset-Cat_eye_adjust
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 770aace9a0b71f84c9b7f34934b076cd
-    m_Address: UMA/OverlayDataAsset-stunner_inner_mouth_Overlay
+    - UMA_Default
+    - MaleEye3
+  - m_GUID: cda7e080be988c44ab8341720f86d6cd
+    m_Address: UMA/OverlayDataAsset-Alligator_eye_Alternate_adjust
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 2dbbe8b69d37d1943b2ce959f0f91514
-    m_Address: UMA/SlotDataAsset-st_inner_mouth_LOD0
+    - UMA_Default
+    - MaleEye2
+  - m_GUID: 40b53c0fadbef334ca1842707ed2929a
+    m_Address: UMA/OverlayDataAsset-Alligator_eye_adjust
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: e216a658ad2d5b34bbf27a870a7a8ff1
-    m_Address: UMA/OverlayDataAsset-stunner_teeth_Overlay
+    - UMA_Default
+    - MaleEye1
+  - m_GUID: 0b7ed825e2431f54c9f786a489da80bc
+    m_Address: UMA/SlotDataAsset-MaleEyes
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 8ca12b4bd7bb325489a171b807e7ea34
-    m_Address: UMA/SlotDataAsset-st_teeth_LOD0
+    - UMA_Default
+    - MaleEye1
+    - MaleEye2
+    - MaleEye3
+    - MaleEye4
+    - MaleEye5
+    - ElfMale Base Recipe
+    - HumanMale Base Recipe
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - Puck
+    - PuckDCS
+    - DNAConverterControllerExample Base Recipe
+    - Harold
+    - Sven
+    - Troll
+    - MaleBase2
+  - m_GUID: 3f29b633b16c7154a8cd85fe882381a7
+    m_Address: UMA/OverlayDataAsset-M_Face 1 eyebrows2
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 0e09d22244b40e7488ab08249ef93433
-    m_Address: UMA/SlotDataAsset-st_female_handR_LOD0
+    - UMA_Default
+    - MaleBrowHR2
+  - m_GUID: 29a929c318e07dd409a59412bc7d4cdc
+    m_Address: UMA/OverlayDataAsset-M_Eyebrow
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 837918e83cf76ad4189702c41463f934
-    m_Address: UMA/SlotDataAsset-st_female_handL_LOD0
+    - UMA_Default
+    - MaleBrowHR
+  - m_GUID: 8b232fbd9c99b3149bc6c4f6cb7afb7d
+    m_Address: UMA/SlotDataAsset-M_Eyebrow
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 937b1070b48b3e14786028ef5c154ecf
-    m_Address: UMA/SlotDataAsset-st_female_arm_upperR_LOD0
+    - UMA_Default
+    - MaleBrowHR
+    - MaleBrowHR2
+  - m_GUID: eea2e3c934a89a549bcc3dc6427c16ad
+    m_Address: UMA/OverlayDataAsset-MaleEyebrow02
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: c8a9f56338c6cdc49ba40590bba41b12
-    m_Address: UMA/SlotDataAsset-st_female_arm_upperL_LOD0
+    - UMA_Default
+    - MaleBrow02
+    - Harold
+    - Sven
+    - Troll
+    - MaleBase2
+  - m_GUID: 77a1606bb44cacf46b25dcf362209aa5
+    m_Address: UMA/OverlayDataAsset-MaleEyebrow01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 58250828acf20404ebbd72139feceb14
-    m_Address: UMA/SlotDataAsset-st_female_arm_lowerR_LOD0
+    - UMA_Default
+    - MaleBrow01
+  - m_GUID: 0f78229f3dbb8e34f904840f3db74e72
+    m_Address: UMA/OverlayDataAsset-MaleBeard03
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 3db16287347d07643a9beb4b462b3b9c
-    m_Address: UMA/OverlayDataAsset-st_female_body_skinPale_Overlay
+    - UMA_Default
+    - MaleBeard3
+    - Harold
+    - MaleBeard
+  - m_GUID: c4542d0190eae184d8f1e1e277208fd7
+    m_Address: UMA/OverlayDataAsset-MaleBeard02
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: fb66d0f34b9671345918abc05190926d
-    m_Address: UMA/OverlayDataAsset-st_body_muscle_tone_Overlay
+    - UMA_Default
+    - MaleBeard2
+  - m_GUID: 0c49ebdd154238b45bb1a3338a613193
+    m_Address: UMA/OverlayDataAsset-MaleBeard01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 09f1d54a8ef6e9e42ae73aefc2deeb69
-    m_Address: UMA/OverlayDataAsset-st_body_age_Overlay
+    - UMA_Default
+    - MaleBeard1
+    - Sven
+    - MaleBeard
+  - m_GUID: 2c4ecf1627276e74292e6455114acb04
+    m_Address: UMA/OverlayDataAsset-GirlShirt01Color
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 043d053529fb9d847bca905143053a31
-    m_Address: UMA/OverlayDataAsset-st_female_body_muscle_upper_Overlay
+    - UMA_Default
+    - GirlShirt1
+  - m_GUID: 8a43aa28029a29d42954e05d04d1bec3
+    m_Address: UMA/OverlayDataAsset-FemaleUnderwear-2
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: abd2d3667f6e67c47ac7101def36cde9
-    m_Address: UMA/OverlayDataAsset-st_female_body_muscle_lower_Overlay
+    - UMA_Default
+    - FemaleUndies2
+    - FemaleUnderwear
+  - m_GUID: 73cf00c391282944c8251cee30c6cb68
+    m_Address: UMA/OverlayDataAsset-FemaleUnderwear02
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 760b89b20fba02d4793b1400d90f93e9
-    m_Address: UMA/OverlayDataAsset-st_female_body_child_Overlay
+    - UMA_Default
+    - FemaleUndies
+    - Shelly
+  - m_GUID: 7c7d4dd46aadf264ca87a97b357a238e
+    m_Address: UMA/OverlayDataAsset-FemaleTshirt02
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: d4a0d088d73199940846414a1d44b64b
-    m_Address: UMA/OverlayDataAsset-st_female_body_pregnant_Overlay
+    - UMA_Default
+    - FemaleShirt4
+  - m_GUID: 61ff84e89ca1f5c41856a75449025092
+    m_Address: UMA/OverlayDataAsset-FemaleShirt02
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 2d124def3b9fd4c4081599026189ad79
-    m_Address: UMA/OverlayDataAsset-st_female_body_thin_lower_Overlay
+    - UMA_Default
+    - FemaleShirt3
+    - FemaleOutfit1
+  - m_GUID: 2ef21f95dae467b4788ba5a084b94b9d
+    m_Address: UMA/OverlayDataAsset-FemaleShirt01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 0f5c45ffea77091438173195bb450270
-    m_Address: UMA/OverlayDataAsset-st_female_body_thin_upper_Overlay
+    - UMA_Default
+    - FemaleShirt2
+    - KimCardassian
+    - Shelly
+  - m_GUID: 4e9cc6816f5c700409fef511dd2dd2d1
+    m_Address: UMA/SlotDataAsset-FemaleTorso
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 61a45b7ff7dedda46ad3239ca7e903ce
-    m_Address: UMA/OverlayDataAsset-st_female_body_fat_lower_Overlay
+    - UMA_Default
+    - FemaleShirt2
+    - FemaleShirt3
+    - FemaleUndies
+    - FemaleUndies2
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+    - Shelly
+    - FemaleOutfit1
+    - FemaleUnderwear
+  - m_GUID: 63212701cc50fca4eac77618947eb849
+    m_Address: UMA/OverlayDataAsset-FemaleTshirt01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: f763350b152ee1844a55e27d6a6996f0
-    m_Address: UMA/OverlayDataAsset-st_female_body_belly_big_Overlay
+    - UMA_Default
+    - FemaleShirt1
+    - GirlShirt1
+    - FemaleOutfit2
+  - m_GUID: 664ce06cddaec764a95d67b79505d8dc
+    m_Address: UMA/SlotDataAsset-FemaleTshirt01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: ca32972ca4731a949a1cc017e8ec299c
-    m_Address: UMA/OverlayDataAsset-st_female_body_breast_small_Overlay
+    - UMA_Default
+    - FemaleShirt1
+    - FemaleShirt4
+    - GirlShirt1
+    - FemaleOutfit2
+  - m_GUID: 959afba629a4847498616df7ba10a543
+    m_Address: UMA/OverlayDataAsset-FemaleJeans02
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 887bfd42e4587c348829e2af0dc9b401
-    m_Address: UMA/OverlayDataAsset-st_female_body_fat_upper_Overlay
+    - UMA_Default
+    - FemalePants2
+  - m_GUID: b6b6f8e091fafc644b63f4064102382a
+    m_Address: UMA/OverlayDataAsset-FemaleJeans01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 59aca70d43e1d6f469a6ab580d0e1ba4
-    m_Address: UMA/OverlayDataAsset-stunner_female_body_Overlay
+    - UMA_Default
+    - FemalePants1
+    - FemalePants2
+    - KimCardassian
+    - Shelly
+    - FemaleOutfit1
+    - FemaleOutfit2
+  - m_GUID: e40f405bbd058a0419b3d09cf94ee7de
+    m_Address: UMA/SlotDataAsset-FemaleLegs
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 93e3c18e36a5c5b468679a1b5fd1eb8e
-    m_Address: UMA/SlotDataAsset-st_female_arm_lowerL_LOD0
+    - UMA_Default
+    - FemalePants1
+    - FemalePants2
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+    - Shelly
+    - FemaleOutfit1
+    - FemaleOutfit2
+    - FemaleUnderwear
+  - m_GUID: 475458bd3c70c4148997ace0f6619dbb
+    m_Address: UMA/OverlayDataAsset-MeshHairStd
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 3d6b001e4f086594c94a2405052376ce
-    m_Address: UMA/OverlayDataAsset-st_female_head_skinPale_Overlay
+    - UMA_Default
+    - FemaleHair3
+    - MaleHair2
+  - m_GUID: 911a7511737178d4dbfe1ab52a2d8887
+    m_Address: UMA/SlotDataAsset-UMA_fem_hair_1_005
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: ebc4c03e53e58634c8c0f7ee609c84b3
-    m_Address: UMA/OverlayDataAsset-st_female_head_cheek_pos_up_Overlay
+    - UMA_Default
+    - FemaleHair3
+  - m_GUID: 30819781a55e5b540abd5f8a35901ca2
+    m_Address: UMA/OverlayDataAsset-FemaleShortHair01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: fff3a0535c5bcbc49b96a59cc06bae20
-    m_Address: UMA/OverlayDataAsset-st_female_head_cheek_pos_down_Overlay
+    - UMA_Default
+    - FemaleHair2
+    - Shelly
+    - FemaleHairShort
+  - m_GUID: 5baae6388af63c0448e6d614fa7586b3
+    m_Address: UMA/SlotDataAsset-FemaleShortHair01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: b496ad70b87e9a64b930ee5a650850e5
-    m_Address: UMA/OverlayDataAsset-st_head_age_Overlay
+    - UMA_Default
+    - FemaleHair2
+    - Shelly
+    - FemaleHairShort
+  - m_GUID: 335dc3fe2bdb9a24ea853d1023a2ab3e
+    m_Address: UMA/OverlayDataAsset-FemaleLongHair01_Module
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: adf9bd45a4597ea4eba1c26807c97f3c
-    m_Address: UMA/OverlayDataAsset-st_female_head_nose_pronounced_out_Overlay
+    - UMA_Default
+    - FemaleHair1
+    - KimCardassian
+    - FemaleHairLong
+  - m_GUID: ce2cca2d60a3a964e96c77683b6263db
+    m_Address: UMA/SlotDataAsset-FemaleLongHair01_Module
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 27d84259babebf543aa1c1d5cb879d74
-    m_Address: UMA/OverlayDataAsset-st_female_head_nose_pronounced_in_Overlay
+    - UMA_Default
+    - FemaleHair1
+    - KimCardassian
+    - FemaleHairLong
+  - m_GUID: 25df90b5e017453499c48fdb9051267c
+    m_Address: UMA/OverlayDataAsset-FemaleLongHair01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 752c851dcd77e894f87fc4847dce7426
-    m_Address: UMA/OverlayDataAsset-st_female_head_nose_position_up_Overlay
+    - UMA_Default
+    - FemaleHair1
+    - KimCardassian
+    - FemaleHair
+    - FemaleHairLong
+  - m_GUID: 0dfbf95a2c3548040a6cc23330e64d76
+    m_Address: UMA/SlotDataAsset-FemaleLongHair01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: bc27df1bd3bf8f948811e3d638758994
-    m_Address: UMA/OverlayDataAsset-st_female_head_nose_position_down_Overlay
+    - UMA_Default
+    - FemaleHair1
+    - KimCardassian
+    - FemaleHair
+    - FemaleHairLong
+  - m_GUID: f57c699e06562b84fb91461077d470a9
+    m_Address: UMA/OverlayDataAsset-M_Bod smooth
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 4379dc08778fc8c4886370c400b86cf3
-    m_Address: UMA/OverlayDataAsset-st_female_head_nose_inclination_up_Overlay
+    - UMA_Default
+    - MaleSmoothSkin
+    - OverweightMale
+    - DNAConverterControllerExample Base Recipe
+  - m_GUID: 78bcc1abec57f9c409e43c37c84b131e
+    m_Address: UMA/SlotDataAsset-MaleTorso
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 23324b7536efd0f418e10449c5244b98
-    m_Address: UMA/OverlayDataAsset-st_female_head_nose_inclination_down_Overlay
+    - UMA_Default
+    - MaleSmoothSkin
+    - MaleShirt1
+    - MaleShirt2
+    - MaleShirt3
+    - OverweightMale
+    - ElfMale Base Recipe
+    - HumanMale Base Recipe
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - Puck
+    - PuckDCS
+    - DNAConverterControllerExample Base Recipe
+    - Harold
+    - Sven
+    - Troll
+    - MaleBase2
+    - MaleOutfit1
+    - MaleUnderwear
+  - m_GUID: b37930fc892ea8f4aa5316c99ad405cd
+    m_Address: UMA/SlotDataAsset-MaleFace
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: acd255ece80e99d4e8a318bf98ed6a8e
-    m_Address: UMA/OverlayDataAsset-st_female_head_nose_flatten_out_Overlay
+    - UMA_Default
+    - MaleLowPolyHead
+    - Harold
+    - Sven
+    - MaleBase2
+  - m_GUID: 1cb8a895dbe7af3499df9ad078311653
+    m_Address: UMA/SlotDataAsset-UMA_Human_Male_Hands_HQ
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 45f91c6ac71b9304b8b55f6c43d97f90
-    m_Address: UMA/OverlayDataAsset-st_female_head_nose_flatten_in_Overlay
+    - UMA_Default
+    - MaleHandsMid
+  - m_GUID: 5746c09014733de4bbf208291c61aaea
+    m_Address: UMA/OverlayDataAsset-InnerMouth
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 38658d1cfabd95a45a6e85bca82c5c3d
-    m_Address: UMA/OverlayDataAsset-st_female_head_nose_curve_out_Overlay
+    - UMA_Default
+    - FemaleSwappedFace
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanFemaleHighPoly
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - ElfMale Base Recipe
+    - HumanMale Base Recipe
+    - HumanMaleHighPoly
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - Puck
+    - PuckDCS
+    - DNAConverterControllerExample Base Recipe
+    - Harold
+    - KimCardassian
+    - Shelly
+    - Sven
+    - Troll
+    - MaleBase2
+  - m_GUID: 1ce0f12b23c3c9941a8f257ae9ddd78f
+    m_Address: UMA/SlotDataAsset-FemaleInnerMouth
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: e9bd1e7a7241d974c94e99f0db4a862d
-    m_Address: UMA/OverlayDataAsset-st_female_head_nose_curve_in_Overlay
+    - UMA_Default
+    - FemaleSwappedFace
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+    - Shelly
+  - m_GUID: 25c63a2415552414fbc33e7a48efc961
+    m_Address: UMA/SlotDataAsset-FemaleHead_Mouth
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 1b8fae101efd8cd4b9b973c833be9539
-    m_Address: UMA/OverlayDataAsset-st_female_head_nose_bridge_out_Overlay
+    - UMA_Default
+    - FemaleSwappedFace
+    - Elf Female Base Race Recipe
+    - Shelly
+  - m_GUID: bc845162d92a43f4ea04d9bece6f503f
+    m_Address: UMA/OverlayDataAsset-F_HighPoly_EyeBrow
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: c9a0fbbc02c6ca444b3ffed5e518c671
-    m_Address: UMA/OverlayDataAsset-st_female_head_nose_bridge_in_Overlay
+    - UMA_Default
+    - FemaleSwappedFace
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanFemaleHighPoly
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+  - m_GUID: 407823accaae39a4a902c6e4b2bfa383
+    m_Address: UMA/SlotDataAsset-F_High poly Eyebrows
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 684c3a88bed837942ae8e554ea112d8a
-    m_Address: UMA/OverlayDataAsset-st_female_head_mouth_size_wide_Overlay
+    - UMA_Default
+    - FemaleSwappedFace
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanFemaleHighPoly
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+  - m_GUID: 9ddf3b23c4342294988947a71af2d7ab
+    m_Address: UMA/SlotDataAsset-FemaleHead_Nose
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: b63be48f33afb4149a4b2008b1cbad26
-    m_Address: UMA/OverlayDataAsset-st_female_head_mouth_size_narrow_Overlay
+    - UMA_Default
+    - FemaleSwappedFace
+    - Elf Female Base Race Recipe
+    - Shelly
+  - m_GUID: 47737e92a689d49489b317bdd98ff50c
+    m_Address: UMA/SlotDataAsset-FemaleHead_Head
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 31064af075ecf22469b95105267ad6b8
-    m_Address: UMA/OverlayDataAsset-st_female_head_mouth_pronounced_out_Overlay
+    - UMA_Default
+    - FemaleSwappedFace
+    - Elf Female Base Race Recipe
+    - Shelly
+  - m_GUID: bdb13e3982c3e4644b863ae1c9bdafe1
+    m_Address: UMA/SlotDataAsset-FemaleHead_Eyes
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 845a3af3de96d004baa5bd4e5846cf14
-    m_Address: UMA/OverlayDataAsset-st_female_head_mouth_pronounced_in_Overlay
+    - UMA_Default
+    - FemaleSwappedFace
+    - Elf Female Base Race Recipe
+    - Shelly
+  - m_GUID: d813f8755f9fdee489b781e0d5e404c5
+    m_Address: UMA/OverlayDataAsset-F_H_Head
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: b2b7ed4b639925e4b84a8fa0b7a0b3f3
-    m_Address: UMA/OverlayDataAsset-st_female_head_mouth_position_up_Overlay
+    - UMA_Default
+    - FemaleSwappedFace
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanFemaleHighPoly
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+    - Shelly
+  - m_GUID: 6a82f5f7511df8940a287c5d1d34e6ef
+    m_Address: UMA/SlotDataAsset-FemaleHead_ElvenEars
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 2b5d03ab9ecb1bb4695f74469edf779e
-    m_Address: UMA/OverlayDataAsset-st_female_head_mouth_position_down_Overlay
+    - UMA_Default
+    - FemaleSwappedFace
+    - Elf Female Base Race Recipe
+    - Shelly
+  - m_GUID: 19656603ac354ad4aa0dee0018f7f6d5
+    m_Address: UMA/OverlayDataAsset-F_H_Bod
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: cb15ec65a1d3ce84698d5697010c4dce
-    m_Address: UMA/OverlayDataAsset-st_female_head_mandible_size_out_Overlay
+    - UMA_Default
+    - FemaleHandsMid
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanFemaleHighPoly
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+    - Shelly
+  - m_GUID: 869cee25167e44f42907bc39ae048a4a
+    m_Address: UMA/SlotDataAsset-UMA_Human_Female_Hands_HQ
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 8f0b07f366b3b64489845760c2e079f8
-    m_Address: UMA/OverlayDataAsset-st_female_head_mandible_size_in_Overlay
+    - UMA_Default
+    - FemaleHandsMid
+  - m_GUID: ccc8f1668f1d19549bf1a2fbb88a4157
+    m_Address: UMA/SlotDataAsset-Milcut
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 4ce17cf445a406743a909ebd09eba96e
-    m_Address: UMA/OverlayDataAsset-st_female_head_low_cheek_size_out_Overlay
+    - UMA_Default
+    - MilCut
+  - m_GUID: 48d4f8e0253d2c843a6365a1c560a556
+    m_Address: UMA/OverlayDataAsset-Milcap_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 714d114777cc30242ba05e0a4275f089
-    m_Address: UMA/OverlayDataAsset-st_female_head_low_cheek_size_in_Overlay
+    - UMA_Default
+    - MilCut
+  - m_GUID: 048d03b875302a3449e9c7af9097c814
+    m_Address: UMA/OverlayDataAsset-MaleSweatPants_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 4047f8bc5670b584cb02a04125e864f9
-    m_Address: UMA/OverlayDataAsset-st_female_head_lips_size_small_Overlay
+    - UMA_Default
+    - MaleSweatPants_Recipe
+  - m_GUID: 2be54f8bb776cf440b3f9cc8d1fa9b31
+    m_Address: UMA/SlotDataAsset-MaleSweatPants
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 9858bad24abb94946b092023733b2810
-    m_Address: UMA/OverlayDataAsset-st_female_head_lips_size_big_Overlay
+    - UMA_Default
+    - MaleSweatPants_Recipe
+  - m_GUID: 157a4bd45f8a79447b6d4e320310ded5
+    m_Address: UMA/OverlayDataAsset-MaleShortHair_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 7948dba12c582954fbd38aa8b81267dc
-    m_Address: UMA/OverlayDataAsset-st_female_head_jaws_size_small_Overlay
+    - UMA_Default
+    - MaleShortHair_Recipe
+    - MilCut
+  - m_GUID: 948be3b7076b1194ab1f335624c88fb2
+    m_Address: UMA/SlotDataAsset-MaleShortHair
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 6dc1ff5548cff0344bc7dc57a11a756b
-    m_Address: UMA/OverlayDataAsset-st_female_head_jaws_size_big_Overlay
+    - UMA_Default
+    - MaleShortHair_Recipe
+  - m_GUID: 9f8517ff4e839574d90631d851147e81
+    m_Address: UMA/OverlayDataAsset-MaleHoodie_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 9d612666256461846b0d868570c3b799
-    m_Address: UMA/OverlayDataAsset-st_female_head_jaws_position_up_Overlay
+    - UMA_Default
+    - MaleHoodie_Recipe
+  - m_GUID: 049023c663609fb4b995c6206aa43ca7
+    m_Address: UMA/SlotDataAsset-MaleHoodie
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 92b95e71d0f46e343ad467cce96cd55a
-    m_Address: UMA/OverlayDataAsset-st_female_head_jaws_position_down_Overlay
+    - UMA_Default
+    - MaleHoodie_Recipe
+  - m_GUID: aa8d990ec3c557445ada4c167873bec5
+    m_Address: UMA/OverlayDataAsset-Maincap_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: b7655afa9e0cf7a4f87724eac77b577d
-    m_Address: UMA/OverlayDataAsset-st_female_head_forehead_size_fwd_Overlay
+    - UMA_Default
+    - MaleHairSlick01_Recipe
+    - MaleShortHair_Recipe
+  - m_GUID: 2fb90046504df7043bd90524f2823733
+    m_Address: UMA/OverlayDataAsset-MaleHairSlick01_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: b82abf9f4d3e4b04ea545d1741fd8ff0
-    m_Address: UMA/OverlayDataAsset-st_female_head_forehead_size_bck_Overlay
+    - UMA_Default
+    - MaleHairSlick01_Recipe
+  - m_GUID: b50583b1ad6156647a9340322eca92b2
+    m_Address: UMA/SlotDataAsset-MaleHairSlick01
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 8d4d8f67316f1134cbfad9ed4984b958
-    m_Address: UMA/OverlayDataAsset-st_female_head_forehead_position_up_Overlay
+    - UMA_Default
+    - MaleHairSlick01_Recipe
+  - m_GUID: 03e5bfa4f7f2fd445974ed61bdf5d9cf
+    m_Address: UMA/OverlayDataAsset-M_Bod Overlay 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: b15bf82162757c64ca9fb3b9cd0cab94
-    m_Address: UMA/OverlayDataAsset-st_female_head_forehead_position_down_Overlay
+    - UMA_Default
+    - MaleAnkles_Recipe
+    - MaleHandsMid
+    - ElfMale Base Recipe
+    - HumanMale Base Recipe
+    - HumanMaleHighPoly
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - Puck
+    - PuckDCS
+    - DNAConverterControllerExample Base Recipe
+    - Harold
+    - Sven
+    - Troll
+  - m_GUID: 45b6d4db30ba89c4fbc26dbc580b78ad
+    m_Address: UMA/SlotDataAsset-MaleAnkles
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: a30b5422891f4df44a9d5ee5237d9806
-    m_Address: UMA/OverlayDataAsset-st_female_head_eye_size_small_Overlay
+    - UMA_Default
+    - MaleAnkles_Recipe
+  - m_GUID: f552f5dd25919084fa1077b6df706c9d
+    m_Address: UMA/SlotDataAsset-TallShoes
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 102d83ece4132bc4e8c6e5e9b0640923
-    m_Address: UMA/OverlayDataAsset-st_female_head_eye_size_big_Overlay
+    - UMA_Default
+    - TallShoes_Black_Recipe
+    - TallShoes_Recipe
+  - m_GUID: d10c6db5c35334a4c87b351ed1e142bf
+    m_Address: UMA/OverlayDataAsset-Cap_Hair_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 79902dab048295542afbf6b3eab1c45d
-    m_Address: UMA/OverlayDataAsset-st_female_head_eye_depth_out_Overlay
+    - UMA_Default
+    - ShavedHead
+    - MilCut
+  - m_GUID: 1b6ada5c5a1cbdd41bb96770d71b16c1
+    m_Address: UMA/OverlayDataAsset-Cap_Rash_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 850e31bf7187f7c47a088200992d4535
-    m_Address: UMA/OverlayDataAsset-st_female_head_eye_depth_in_Overlay
+    - UMA_Default
+    - ShavedHead
+    - MilCut
+  - m_GUID: f37b7c5bd4158be44880557cefabb033
+    m_Address: UMA/OverlayDataAsset-Cap_Shadow_overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 34da893aa91535246bb4ce07ada39bae
-    m_Address: UMA/OverlayDataAsset-st_female_head_chin_size_narrow_Overlay
+    - UMA_Default
+    - ShavedHead
+    - MilCut
+    - MaleHair1
+  - m_GUID: fe973a02183b3894296cc24e40283fde
+    m_Address: UMA/SlotDataAsset-M_High poly Head
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 27a8228b32d4d12418fef397cba3a919
-    m_Address: UMA/OverlayDataAsset-st_female_head_chin_size_large_Overlay
+    - UMA_Default
+    - ShavedHead
+    - MaleHairSlick01_Recipe
+    - MaleShortHair_Recipe
+    - MilCut
+    - MaleBeard1
+    - MaleBeard2
+    - MaleBeard3
+    - MaleBrow01
+    - MaleBrow02
+    - MaleFace Old
+    - MaleHair1
+    - MaleHair3
+    - TrollHead
+    - HumanMale Base Recipe
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - DNAConverterControllerExample Base Recipe
+    - MaleBeard
+    - MaleHair
+  - m_GUID: 04ca452ebc325384dbd880de14092e76
+    m_Address: UMA/OverlayDataAsset-FemaleTankTop_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: d4aaae5355cfedf42b8afe65d8ef6de8
-    m_Address: UMA/OverlayDataAsset-st_female_head_chin_pronounced_in_Overlay
+    - UMA_Default
+    - FemaleTankTop_Recipe
+  - m_GUID: e5af6f0e864cd3d46b3c4f61535aa584
+    m_Address: UMA/SlotDataAsset-FemaleTankTop
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: bfc3adf6ebdb79b43bd674f5906a53e7
-    m_Address: UMA/OverlayDataAsset-st_female_head_chin_pronounced_out_Overlay
+    - UMA_Default
+    - FemaleTankTop_Recipe
+  - m_GUID: 52ecbbea436af6c4596d67e66a65d7ef
+    m_Address: UMA/OverlayDataAsset-FemaleSportPants_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: a1f59769fe5ea1149b5a251fea41b015
-    m_Address: UMA/OverlayDataAsset-st_female_head_cheek_size_small_Overlay
+    - UMA_Default
+    - FemaleSportPants_Recipe
+  - m_GUID: 1cc8858db5c0c9a48a27dc5797bb3a37
+    m_Address: UMA/SlotDataAsset-FemaleSportPants
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: db514bae3990b314aa4f627709d5d07c
-    m_Address: UMA/OverlayDataAsset-st_female_head_cheek_size_big_Overlay
+    - UMA_Default
+    - FemaleSportPants_Recipe
+  - m_GUID: b53229351f1835947840963cdd44227e
+    m_Address: UMA/OverlayDataAsset-PonyTail_Scrunchie_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: da12ad28781d3554d84dc235837a46c4
-    m_Address: UMA/OverlayDataAsset-st_head_muscle_tone_Overlay
+    - UMA_Default
+    - FemalePonyTail_Recipe
+    - BoneyTail_Recipe
+  - m_GUID: 7a03e04a4f448b74ebf93711f9f15a86
+    m_Address: UMA/SlotDataAsset-FemalePonyTail_1
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: df6e6434b31dfac4a992a71527984fd9
-    m_Address: UMA/OverlayDataAsset-st_female_head_muscle_Overlay
+    - UMA_Default
+    - FemalePonyTail_Recipe
+  - m_GUID: cf8631a0e0aefb34aa822421f8d5f826
+    m_Address: UMA/OverlayDataAsset-FemalePonyTail_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 8789ac4652a0f2942962b9d00e45cade
-    m_Address: UMA/OverlayDataAsset-st_female_head_child_Overlay
+    - UMA_Default
+    - FemalePonyTail_Recipe
+    - BoneyTail_Recipe
+  - m_GUID: 8f4fa762be2c12049baf6abfea653205
+    m_Address: UMA/SlotDataAsset-FemalePonyTail
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 121658c86b507774b860da10d24752ae
-    m_Address: UMA/OverlayDataAsset-st_female_head_thin_Overlay
+    - UMA_Default
+    - FemalePonyTail_Recipe
+  - m_GUID: 304fc44cf9ff5ad428e4802e082702c5
+    m_Address: UMA/OverlayDataAsset-FemaleLongHair_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 53dac8edb3ae996468202ad0f2839d10
-    m_Address: UMA/OverlayDataAsset-st_female_head_fat_Overlay
+    - UMA_Default
+    - FemaleLongHair_Recipe
+  - m_GUID: 1aadd11c8710fd842821fa962b7d66c4
+    m_Address: UMA/SlotDataAsset-FemaleLongHair
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: 4330b2a40bf02714eacd358c1e9316d3
-    m_Address: UMA/OverlayDataAsset-stunner_female_head_Overlay
+    - UMA_Default
+    - FemaleLongHair_Recipe
+  - m_GUID: ad54ecc72b1634b42a6b2ef9c5dbcdfa
+    m_Address: UMA/OverlayDataAsset-TallShoes_White
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-  - m_GUID: aa2243f64b5e76043a80228d393a1949
-    m_Address: UMA/OverlayDataAsset-stunner_eyelash_Overlay
+    - UMA_Default
+    - FemaleTallShoes_White
+    - TallShoes_Recipe
+  - m_GUID: 907de3008710e7f41b1ff076aac06cf2
+    m_Address: UMA/OverlayDataAsset-TallShoes_Turquoise
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: eee11e0b41ce8fc47b1a4e8ab446c4af
-    m_Address: UMA/SlotDataAsset-st_eyelash_LOD0
+    - UMA_Default
+    - FemaleTallShoes_Turquoise
+  - m_GUID: f8bd3f6c4901d6d4c986bb042def995c
+    m_Address: UMA/OverlayDataAsset-TallShoes_Black
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: ae6fa11d207e0f24e9ed111807b8a344
-    m_Address: UMA/OverlayDataAsset-st_eyes_irisFlakes_Overlay
+    - UMA_Default
+    - FemaleTallShoes_Black
+    - TallShoes_Black_Recipe
+  - m_GUID: 4c5c96e8edf9cdc4abf5fed26d977b87
+    m_Address: UMA/SlotDataAsset-FemaleTallShoes
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 23e5d9efcdd6ddb42bd27a2b38b857c5
-    m_Address: UMA/OverlayDataAsset-st_eyes_irisInner_Overlay
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 8fd8d8e020d45f7409b8f0e0a26a0f91
-    m_Address: UMA/OverlayDataAsset-st_eyes_iris_Overlay
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: e30b79074990b814793c58b4ec258baa
-    m_Address: UMA/OverlayDataAsset-stunner_eyes_Overlay
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: 28eb41c0530b4de40a063aad9c76ce29
-    m_Address: UMA/SlotDataAsset-st_eyes_LOD0
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UMA_Base
-    - UMA_Recipes
-    - o3nStunnerFemaleBaseRecipe
-    - o3nStunnerMaleBaseRecipe
-  - m_GUID: ca77051c424efc042b5c6e4fafb88728
-    m_Address: UMA/SlotDataAsset-stPhysicsStandard
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UMA_Base
-    - UMA_Recipes
-    - stPhysicsStandardRecipe
+    - UMA_Default
+    - FemaleTallShoes_Black
+    - FemaleTallShoes_Turquoise
+    - FemaleTallShoes_White
   - m_GUID: aaa21a5ef16de3444b0651723115392b
     m_Address: UMA/SlotDataAsset-st_toesR_Socks_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_socks_01_Recipe
     - o3nStunnerFemaleBaseRecipe
     - o3nStunnerMaleBaseRecipe
@@ -1239,14 +1547,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_socks_01_Recipe
   - m_GUID: c406444158f0f9148958ccbb82f74502
     m_Address: UMA/SlotDataAsset-st_toesL_Socks_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_socks_01_Recipe
     - o3nStunnerFemaleBaseRecipe
     - o3nStunnerMaleBaseRecipe
@@ -1255,14 +1563,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_underwear_01_Recipe
   - m_GUID: da21b4f8171caa04c91402c1967aa5c4
     m_Address: UMA/SlotDataAsset-st_male_groin_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_underwear_01_Recipe
     - o3nStunnerMaleBaseRecipe
   - m_GUID: dadd17a49fd5680408b9420521fbd588
@@ -1270,35 +1578,35 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_underwear_01_Transparent_Undies
   - m_GUID: c3e1e193dd8382445a36e0ab8bb177d7
     m_Address: UMA/OverlayDataAsset-st_female_underwear_01_transparent_Top_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_underwear_01_Transparent_Bra
   - m_GUID: 0aa23f1f4c81534419a71874884225df
     m_Address: UMA/OverlayDataAsset-st_female_underwear_01_satinBase_Bottom_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_underwear_01_LacedSatin_Undies
   - m_GUID: 0a44becc5defba046a2b22b94f8683fa
     m_Address: UMA/OverlayDataAsset-st_female_underwear_01_satinBase_Top_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_underwear_01_LacedSatin_Bra
   - m_GUID: 7e7bd025e12370c4f98962b4dc911d9e
     m_Address: UMA/OverlayDataAsset-st_female_underwear_01_laces_Bottom_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_underwear_01_Base_Undies
     - st_female_underwear_01_LacedSatin_Undies
   - m_GUID: 575531d66b4cbb24ca8b6569591ebc4e
@@ -1306,14 +1614,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_underwear_01_Base_Undies
   - m_GUID: 4aa638a9d3c76744089cf607e6f17d7a
     m_Address: UMA/OverlayDataAsset-st_female_underwear_01_laces_Top_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_underwear_01_Base_Bra
     - st_female_underwear_01_LacedSatin_Bra
   - m_GUID: 7b4ee2b7a90002347a9f9216de1235f6
@@ -1321,14 +1629,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_underwear_01_Base_Bra
   - m_GUID: 6369fa1d604a1ff45895c082853575a8
     m_Address: UMA/SlotDataAsset-st_female_leg_upperR_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_stockings_01_Recipe
     - o3nStunnerFemaleBaseRecipe
   - m_GUID: b29f415bb61c3e54abe1373ff1d2705c
@@ -1336,7 +1644,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_stockings_01_Recipe
     - o3nStunnerFemaleBaseRecipe
   - m_GUID: a60cbf6809820b54e80dc417911121ba
@@ -1344,7 +1652,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_stockings_01_Recipe
     - o3nStunnerFemaleBaseRecipe
   - m_GUID: c6f9787f67b08f541b523d6471979d0b
@@ -1352,7 +1660,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_stockings_01_Recipe
     - o3nStunnerFemaleBaseRecipe
   - m_GUID: c2916e85871ce7346bde25d019fd176b
@@ -1360,7 +1668,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_stockings_01_Recipe
     - o3nStunnerFemaleBaseRecipe
   - m_GUID: 7749560e0e0669c429cd9be7014202ac
@@ -1368,14 +1676,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_stockings_01_Recipe
   - m_GUID: fbe455b16998ad74abcf292d7d81f4d8
     m_Address: UMA/SlotDataAsset-st_female_footL_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_stockings_01_Recipe
     - o3nStunnerFemaleBaseRecipe
   - m_GUID: f68f6662113adcf43855e9eca180f37b
@@ -1383,21 +1691,21 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - St_baseball_hat_01_vintage_Recipe
   - m_GUID: 464d046497d252c419df87a4fa42bdad
     m_Address: UMA/OverlayDataAsset-St_baseball_hat_01_o3n_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - St_baseball_hat_01_o3n_Recipe
   - m_GUID: 8d29271e0cb8d7c48a45f4ccf6c8140b
     m_Address: UMA/OverlayDataAsset-st_baseball_hat_01_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - St_baseball_hat_01_o3n_Recipe
     - St_baseball_hat_01_Recipe
   - m_GUID: 6049fdd54e972044aa417029702fe12e
@@ -1405,7 +1713,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - St_baseball_hat_01_o3n_Recipe
     - St_baseball_hat_01_Recipe
     - St_baseball_hat_01_vintage_Recipe
@@ -1414,7 +1722,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_short_hair_female_Recipe
     - st_short_hair_Recipe
   - m_GUID: 27f8bfcc95a1ca4499d0f1377df9840c
@@ -1422,7 +1730,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_short_hair_female_Recipe
     - st_short_hair_Recipe
   - m_GUID: 860ae71847e8acc41959f75787d860c5
@@ -1430,7 +1738,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_short_hair_female_Recipe
     - st_short_hair_Recipe
   - m_GUID: 66ed07d29a9f8424e9ac9f89b81e0604
@@ -1438,7 +1746,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_short_hair_female_Recipe
     - st_short_hair_Recipe
   - m_GUID: 5bdf6db77108e024eb907f6893c7d75e
@@ -1446,7 +1754,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_long_hair_Recipe
     - st_long_hair_male_Recipe
   - m_GUID: 67238ec13eac13f4b8749904ee5d5f7b
@@ -1454,15 +1762,20 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_long_hair_Recipe
     - st_long_hair_male_Recipe
+    - F_Hair_01_Recipe
+    - F_Hair_02_Recipe
+    - F_Hair_04_Recipe
+    - Plane_004.006_Recipe
+    - F_11_Recipe
   - m_GUID: e68fbc4b55ac9274b83e85974c916709
     m_Address: UMA/SlotDataAsset-st_female_long_hair_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_long_hair_Recipe
     - st_long_hair_male_Recipe
   - m_GUID: 9875fc231c8f4344c8dc289f311663bf
@@ -1470,7 +1783,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_long_hair_Recipe
     - st_long_hair_male_Recipe
   - m_GUID: f40102107cb93ce49b11b927653ade59
@@ -1478,56 +1791,56 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_hair_ponytail_LOD0_Recipe
   - m_GUID: 05164d85480845e4b804609cbf365287
     m_Address: UMA/SlotDataAsset-St_female_hair_ponytail_Hat01_LOD0_Slot
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_hair_ponytail_LOD0_Recipe
   - m_GUID: ed0aaea4505ed22489f5dbcc8cef6409
     m_Address: UMA/OverlayDataAsset-st_female_haircap2_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_hair_ponytail_LOD0_Recipe
   - m_GUID: 220ef79309c88ee4ea7a6ecc7791158d
     m_Address: UMA/OverlayDataAsset-st_female_hair_ponytail_scrunchie_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_hair_ponytail_LOD0_Recipe
   - m_GUID: a8605a4e7bf77f941becad061931ce25
     m_Address: UMA/SlotDataAsset-st_female_hair_ponytail_scrunchie_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_hair_ponytail_LOD0_Recipe
   - m_GUID: 5665e44e60671b74293ab4d8ab6f5728
     m_Address: UMA/OverlayDataAsset-st_female_hair_ponytail_LOD0_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_hair_ponytail_LOD0_Recipe
   - m_GUID: fdce24bb8ddc0754e904aea7c72ebbe2
     m_Address: UMA/SlotDataAsset-st_female_hair_ponytail_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_hair_ponytail_LOD0_Recipe
   - m_GUID: 02e74fe5eb2e35d4a8094618844359fa
     m_Address: UMA/OverlayDataAsset-st_buzzcut_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_buzzcut_female_Recipe
     - st_buzzcut_male_Recipe
   - m_GUID: ca8aa9d97b7d4b74a8b24280e58ce638
@@ -1535,56 +1848,56 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_sneakers_01_Recipe
   - m_GUID: 29a04103f04c08c46a68b57a9539bbff
     m_Address: UMA/OverlayDataAsset-st_sneakers_01_base_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_sneakers_01_Recipe
   - m_GUID: d2ab65751558fe74b8ae45a145965ade
     m_Address: UMA/OverlayDataAsset-st_sneakers_01_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_sneakers_01_Recipe
   - m_GUID: 9c24f156a1b5a3543b0081c2106e7df8
     m_Address: UMA/SlotDataAsset-st_sneakers_01_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_sneakers_01_Recipe
   - m_GUID: c7867c517c0e997438c18b220d4964d0
     m_Address: UMA/OverlayDataAsset-st_shoes_07_Overlay_turquoise
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_shoes_07_Recipe_turquoise
   - m_GUID: 275e681f6038bd041b65aa8bb00b773d
     m_Address: UMA/OverlayDataAsset-st_shoes_07_Overlay_black
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_shoes_07_Recipe_black
   - m_GUID: be2633c06ac28e04faeb65f9c44a5233
     m_Address: UMA/OverlayDataAsset-st_shoes_07_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_shoes_07_Recipe
   - m_GUID: d8db092af5a6f6344813f8d75ecbc3cf
     m_Address: UMA/SlotDataAsset-st_shoes_07
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_shoes_07_Recipe
     - st_shoes_07_Recipe_black
     - st_shoes_07_Recipe_turquoise
@@ -1593,35 +1906,35 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shoes_flat_01_Recipe
   - m_GUID: 6efd20936696cc243a68fde87e66dc44
     m_Address: UMA/OverlayDataAsset-st_female_shoes_flat_01_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shoes_flat_01_Recipe
   - m_GUID: c3c9b61a8a873b6408cea4d7b8b766da
     m_Address: UMA/OverlayDataAsset-st_female_shoes_flat_01_denim_base_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shoes_flat_01_denim_Recipe
   - m_GUID: 0480cc0826691e34fb2f42fd378cb9a9
     m_Address: UMA/OverlayDataAsset-st_female_shoes_flat_01_denim_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shoes_flat_01_denim_Recipe
   - m_GUID: 9b61aa0769b7df847b54533e25e768f9
     m_Address: UMA/SlotDataAsset-st_female_shoes_flat_01_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shoes_flat_01_denim_Recipe
     - st_female_shoes_flat_01_Recipe
   - m_GUID: 427019c2f22760240bc2d9c8865de3cf
@@ -1629,70 +1942,70 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shoes_Recipe
   - m_GUID: b80e2961abcff1b45a3020c2f4638ea1
     m_Address: UMA/OverlayDataAsset-st_female_shoes_under_base_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shoes_Recipe
   - m_GUID: e260b48eb2ec3874bbac62f8df0df6c8
     m_Address: UMA/OverlayDataAsset-st_female_shoes_inner_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shoes_Recipe
   - m_GUID: 9ac20788a4584ab4190fd30ad3134c8a
     m_Address: UMA/OverlayDataAsset-st_female_shoes_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shoes_Recipe
   - m_GUID: 879475a0bc8495c4cb436f4ec437f207
     m_Address: UMA/SlotDataAsset-st_female_shoes_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shoes_Recipe
   - m_GUID: 70c386590e6c8134cb1e3d7104e13634
     m_Address: UMA/OverlayDataAsset-st_female_high_heels_02_patent_base_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_high_heels_02_Recipe
   - m_GUID: 7d29e87200579284db04a993086eca19
     m_Address: UMA/OverlayDataAsset-st_female_high_heels_02_patent_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_high_heels_02_Recipe
   - m_GUID: 9bcb1f32134ce544b9708f8c6b55b8c5
     m_Address: UMA/OverlayDataAsset-st_female_high_heels_02_leather_base_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_high_heels_02_leather_Recipe
   - m_GUID: 7c691b59c1a6c1947954362611c2b157
     m_Address: UMA/OverlayDataAsset-st_female_high_heels_02_leather_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_high_heels_02_leather_Recipe
   - m_GUID: 10c8899b0bfc5fe4eb2f0e502d17b94e
     m_Address: UMA/SlotDataAsset-st_female_high_heels_02_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_high_heels_02_leather_Recipe
     - st_female_high_heels_02_Recipe
   - m_GUID: 9a9665860b542d342a74daa9f0d742b7
@@ -1700,14 +2013,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_short_01_squared_Recipe
   - m_GUID: 803dec2b77074d94fa534f804d4372c4
     m_Address: UMA/OverlayDataAsset-st_male_short_01_upper_weight_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_short_01_Recipe
     - st_male_short_01_squared_Recipe
   - m_GUID: 91234bcb6bef0f64ba7a984152af40bd
@@ -1715,7 +2028,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_short_01_Recipe
     - st_male_short_01_squared_Recipe
   - m_GUID: 52823da82fbcb3e4881d88d2f1454318
@@ -1723,14 +2036,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_short_01_Recipe
   - m_GUID: 7f4882b4a820e584eae9d3c2805b8df8
     m_Address: UMA/SlotDataAsset-st_male_short_01_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_short_01_Recipe
     - st_male_short_01_squared_Recipe
   - m_GUID: 7e83baa7b9834c44aa1c78c3b93faea9
@@ -1738,63 +2051,63 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_02_long_sleeve_Recipe
   - m_GUID: 58de9a2c45cb1194ab6ebffda2058192
     m_Address: UMA/OverlayDataAsset-st_male_shirt_02_belly_big_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_02_long_sleeve_Recipe
   - m_GUID: 533dbf817b62b6149b53b47b904aee19
     m_Address: UMA/OverlayDataAsset-st_male_shirt_02_weight_upper_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_02_long_sleeve_Recipe
   - m_GUID: 11330cf0aa1951346b4f191f81c72706
     m_Address: UMA/OverlayDataAsset-st_male_shirt_02_weight_lower_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_02_long_sleeve_Recipe
   - m_GUID: 236cb88b4ad653c43b9eeb288bf0c134
     m_Address: UMA/OverlayDataAsset-st_male_shirt_02_long_sleeve_arms_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_02_long_sleeve_Recipe
   - m_GUID: 3283ee561ff3ec4449489795bd217fcf
     m_Address: UMA/OverlayDataAsset-st_male_shirt_02_long_sleeve_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_02_long_sleeve_Recipe
   - m_GUID: 37bc817f47fb5ab44b60cb966c2b95e5
     m_Address: UMA/SlotDataAsset-st_male_shirt_02_long_sleeve_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_02_long_sleeve_Recipe
   - m_GUID: 4577f1ecae41cef448b54fc6ce22c968
     m_Address: UMA/OverlayDataAsset-st_male_shirt_01_squared_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_01_squared_Recipe
   - m_GUID: d1a10853f04627441ada3e0ed33d8477
     m_Address: UMA/OverlayDataAsset-st_male_shirt_alpha_mask_overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_01_Recipe
     - st_male_shirt_01_squared_Recipe
   - m_GUID: 902ba83f979ae534c849946ccd905a65
@@ -1802,7 +2115,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_01_Recipe
     - st_male_shirt_01_squared_Recipe
     - o3nStunnerMaleBaseRecipe
@@ -1811,7 +2124,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_01_Recipe
     - st_male_shirt_01_squared_Recipe
   - m_GUID: 949044a581b35814d8d21eed8a0e6809
@@ -1819,7 +2132,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_01_Recipe
     - st_male_shirt_01_squared_Recipe
   - m_GUID: c1f43ea9723bc2a448c4291fe2530ee7
@@ -1827,7 +2140,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_01_Recipe
     - st_male_shirt_01_squared_Recipe
   - m_GUID: dbaac780734d95f4aa08a3a40bc93f7b
@@ -1835,7 +2148,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_01_Recipe
     - st_male_shirt_01_squared_Recipe
   - m_GUID: d91df022be2d33349bf78658d9532e8a
@@ -1843,7 +2156,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_01_Recipe
     - st_male_shirt_01_squared_Recipe
   - m_GUID: 0660d7962e006c84c953fbc46ef33373
@@ -1851,14 +2164,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_01_Recipe
   - m_GUID: 9d19fc492160063459ffa5fce9418bd3
     m_Address: UMA/SlotDataAsset-st_male_shirt_01_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_shirt_01_Recipe
     - st_male_shirt_01_squared_Recipe
   - m_GUID: e1185efbdff03fa418e162968e452dbe
@@ -1866,14 +2179,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_pants_blue_jeans_01_Recipe
   - m_GUID: a9909ee4ae6d61548b71c25aab6b6a0e
     m_Address: UMA/OverlayDataAsset-st_male_pants_01_upper_weight_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_pants_01_jeans_Recipe
     - st_male_pants_blue_jeans_01_Recipe
   - m_GUID: d45e02377a4e0144abaffbd816cd47d0
@@ -1881,7 +2194,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_pants_01_jeans_Recipe
     - st_male_pants_blue_jeans_01_Recipe
   - m_GUID: 822a7d03c2a0aa64f9d9d82e765ee46f
@@ -1889,14 +2202,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_pants_01_jeans_Recipe
   - m_GUID: cba0f2ca298ee88459969becd0eb3e09
     m_Address: UMA/SlotDataAsset-st_male_pants_01_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_pants_01_jeans_Recipe
     - st_male_pants_blue_jeans_01_Recipe
   - m_GUID: 60498bc18998f454faf55e9197cc4cd9
@@ -1904,119 +2217,119 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_skirt_Recipe
   - m_GUID: 2b87fe8bfd3ee0548bbbc77ef4932878
     m_Address: UMA/OverlayDataAsset-st_female_skirt_fat_lower_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_skirt_Recipe
   - m_GUID: b68cf9295bc75244b9530f4708996e8a
     m_Address: UMA/OverlayDataAsset-st_female_skirt_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_skirt_Recipe
   - m_GUID: 47c2789d4c7e60b4f902e136612bf79d
     m_Address: UMA/SlotDataAsset-st_female_skirt_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_skirt_Recipe
   - m_GUID: df9036fb08a9d4f48bf4781f8dfe4090
     m_Address: UMA/OverlayDataAsset-st_female_shirt_05_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shirt_05_Recipe
   - m_GUID: daa1beb797dda3c41acbbc84ae811736
     m_Address: UMA/SlotDataAsset-st_female_shirt_05
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shirt_05_Recipe
   - m_GUID: 571ff66644c712b4882632d6e0d64f78
     m_Address: UMA/OverlayDataAsset-st_female_shirt_alpha_mask_overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shirt_Recipe
   - m_GUID: 52cc007a3b752b74ab4bf05611215eca
     m_Address: UMA/OverlayDataAsset-st_female_shirt_buttons_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shirt_Recipe
   - m_GUID: 9147212736fcf0b46b79bc2d1bc8300e
     m_Address: UMA/SlotDataAsset-st_female_shirt_buttons_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shirt_Recipe
   - m_GUID: d53aecf787a432042a066e63b5562bc7
     m_Address: UMA/OverlayDataAsset-st_female_shirt_breast_small_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shirt_Recipe
   - m_GUID: a80b7f4bb79434b46b527cb07e34e0fd
     m_Address: UMA/OverlayDataAsset-st_female_shirt_pregnant_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shirt_Recipe
   - m_GUID: affb6de8993666e4497a0429b73b9a31
     m_Address: UMA/OverlayDataAsset-st_female_shirt_belly_big_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shirt_Recipe
   - m_GUID: 03c5bcbf497fcea4c8492b8605cd75c6
     m_Address: UMA/OverlayDataAsset-st_female_shirt_fat_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shirt_Recipe
   - m_GUID: 2bac4958d50c87846bc043db9fd21970
     m_Address: UMA/OverlayDataAsset-st_female_shirt_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shirt_Recipe
   - m_GUID: 5e52312bab89beb43b34944e6158c1c1
     m_Address: UMA/SlotDataAsset-st_female_shirt_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_shirt_Recipe
   - m_GUID: 4ccd6e2653df89b43b9a99b4ece5a08a
     m_Address: UMA/OverlayDataAsset-st_female_pullover_alpha_mask_overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pullover_01_Recipe
   - m_GUID: 5681b7b6de41e9a4d878bfac512c2e98
     m_Address: UMA/SlotDataAsset-st_female_torso_upper_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pullover_01_Recipe
     - st_female_shirt_Recipe
     - o3nStunnerFemaleBaseRecipe
@@ -2025,63 +2338,63 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pullover_01_Recipe
   - m_GUID: 939d3ef9b41a224408f14dd28d5763a2
     m_Address: UMA/OverlayDataAsset-st_female_pullover_01_belly_big_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pullover_01_Recipe
   - m_GUID: d31fb86e763afa3408f8ec40139702b7
     m_Address: UMA/OverlayDataAsset-st_female_pullover_01_pregnant_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pullover_01_Recipe
   - m_GUID: 06be17c7a88c96b4bbbf6054a30062a0
     m_Address: UMA/OverlayDataAsset-st_female_pullover_01_breast_small_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pullover_01_Recipe
   - m_GUID: 9486b5dd6122df247a3931b301be71fe
     m_Address: UMA/OverlayDataAsset-st_female_pullover_01_upper_weight_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pullover_01_Recipe
   - m_GUID: 1b7079d2821da194fa4580d6be5f608e
     m_Address: UMA/OverlayDataAsset-st_female_pullover_01_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pullover_01_Recipe
   - m_GUID: d7147deb45c50cb4bb57ba87b5abcaa6
     m_Address: UMA/SlotDataAsset-st_female_pullover_01_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pullover_01_Recipe
   - m_GUID: 540d9b3cc9dbff04b9f153da68bf4840
     m_Address: UMA/OverlayDataAsset-st_female_pants_jeans_01_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pants_01_denim_Recipe
   - m_GUID: b7197dc6935cb924bbd30e0ef55f68e8
     m_Address: UMA/OverlayDataAsset-pants_alpha_mask_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pants_01_classic_Recipe
     - st_female_pants_01_denim_Recipe
   - m_GUID: 8aa6c731734640344bb2f84ca01138b3
@@ -2089,7 +2402,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pants_01_classic_Recipe
     - st_female_pants_01_denim_Recipe
     - st_female_underwear_01_Base_Bra
@@ -2104,7 +2417,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pants_01_classic_Recipe
     - st_female_pants_01_denim_Recipe
   - m_GUID: 45c5e8477c5ead04aac04a5398904268
@@ -2112,7 +2425,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pants_01_classic_Recipe
     - st_female_pants_01_denim_Recipe
   - m_GUID: 2d72b46f9f71b534da262bfec6a64a2d
@@ -2120,7 +2433,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pants_01_classic_Recipe
     - st_female_pants_01_denim_Recipe
   - m_GUID: e380766a923149846bbea860847ee060
@@ -2128,7 +2441,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pants_01_classic_Recipe
     - st_female_pants_01_denim_Recipe
   - m_GUID: b6acbfaba52925c4095aa38766348750
@@ -2136,14 +2449,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pants_01_classic_Recipe
   - m_GUID: d99fd3f20099ced4c92f953d69f65058
     m_Address: UMA/SlotDataAsset-st_female_pants_01_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_pants_01_classic_Recipe
     - st_female_pants_01_denim_Recipe
   - m_GUID: 0a0f09c555b232845834bd2d005bf1d8
@@ -2151,49 +2464,49 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_03_Recipe
   - m_GUID: 58f450a42a7ba3c4597efb72cd3513d2
     m_Address: UMA/SlotDataAsset-st_female_dress_03
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_03_Recipe
   - m_GUID: 559545b4840561340b1ea4000c5508c6
     m_Address: UMA/OverlayDataAsset-st_female_dress_01_stripes_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Stripes_Recipe
   - m_GUID: 3723c78db9e2c024d90d289998ee4f8b
     m_Address: UMA/OverlayDataAsset-st_female_dress_01_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Plain_Recipe
   - m_GUID: 067dd4a8e8da27d4cb876fb4dbc988d7
     m_Address: UMA/OverlayDataAsset-st_female_dress_01_knit_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Knit_Recipe
   - m_GUID: 84e39f71109013f43a4a2721a9d52172
     m_Address: UMA/OverlayDataAsset-st_female_dress_01_denim_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Denim_Recipe
   - m_GUID: 1242f4da4bd596148acaa6b809edeb33
     m_Address: UMA/OverlayDataAsset-st_female_dress_01_alpha_mask_overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Classic_Recipe
     - st_female_dress_01_Denim_Recipe
     - st_female_dress_01_Knit_Recipe
@@ -2204,7 +2517,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Classic_Recipe
     - st_female_dress_01_Denim_Recipe
     - st_female_dress_01_Knit_Recipe
@@ -2216,7 +2529,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Classic_Recipe
     - st_female_dress_01_Denim_Recipe
     - st_female_dress_01_Knit_Recipe
@@ -2227,7 +2540,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Classic_Recipe
     - st_female_dress_01_Denim_Recipe
     - st_female_dress_01_Knit_Recipe
@@ -2238,7 +2551,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Classic_Recipe
     - st_female_dress_01_Denim_Recipe
     - st_female_dress_01_Knit_Recipe
@@ -2249,7 +2562,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Classic_Recipe
     - st_female_dress_01_Denim_Recipe
     - st_female_dress_01_Knit_Recipe
@@ -2260,7 +2573,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Classic_Recipe
     - st_female_dress_01_Denim_Recipe
     - st_female_dress_01_Knit_Recipe
@@ -2271,7 +2584,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Classic_Recipe
     - st_female_dress_01_Denim_Recipe
     - st_female_dress_01_Knit_Recipe
@@ -2282,14 +2595,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Classic_Recipe
   - m_GUID: 527a945f76160a04fb32f3a7649addd8
     m_Address: UMA/SlotDataAsset-st_female_dress_01_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_dress_01_Classic_Recipe
     - st_female_dress_01_Denim_Recipe
     - st_female_dress_01_Knit_Recipe
@@ -2300,14 +2613,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_female_eye_makeup_Recipe
   - m_GUID: 46aa13bcfaf45174d8482f9d65d9416f
     m_Address: UMA/OverlayDataAsset-st_eyebrows_05_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_eyebrows_05_female_Recipe
     - st_eyebrows_05_male_Recipe
   - m_GUID: a240b5c4739e1694eba7863753fef862
@@ -2315,7 +2628,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_eyebrows_04_female_Recipe
     - st_eyebrows_04_male_Recipe
   - m_GUID: c5e07266c173482439a8a594e85c3710
@@ -2323,7 +2636,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_eyebrows_03_female_Recipe
     - st_eyebrows_03_male_Recipe
   - m_GUID: 1a1b4233f64ce49489cfc08465d26d06
@@ -2331,7 +2644,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_eyebrows_02_female_Recipe
     - st_eyebrows_02_male_Recipe
   - m_GUID: 1d6c4f2d83e0062499cc295e67fa20b6
@@ -2339,7 +2652,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_eyebrows_01_female_Recipe
     - st_eyebrows_01_male_Recipe
   - m_GUID: 6a6dbef095617e44f926bedcb92eaf8d
@@ -2347,7 +2660,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_eyebrows_01_female_Recipe
     - st_eyebrows_02_female_Recipe
     - st_eyebrows_03_female_Recipe
@@ -2364,14 +2677,14 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_beard_stub_01_Recipe
   - m_GUID: ac548ad2445605342b63e63106908bf8
     m_Address: UMA/SlotDataAsset-st_male_head_LOD0
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
-    - UMA_Recipes
+    - UMA_Default
     - st_male_beard_stub_01_Recipe
     - st_eyebrows_01_male_Recipe
     - st_eyebrows_02_male_Recipe
@@ -2382,6 +2695,2388 @@ MonoBehaviour:
     - st_long_hair_male_Recipe
     - st_short_hair_Recipe
     - o3nStunnerMaleBaseRecipe
+  - m_GUID: ba8d7b4967d3f084b94f53b31d7a5b00
+    m_Address: UMA/SlotDataAsset-Bottoms_Female_Hot_Pants_1_LEGS
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleDancer1
+    - ToonHotPants1
+    - ToonDancerCollection
+  - m_GUID: 0bc264c391455944a94d094e18d6cbd0
+    m_Address: UMA/SlotDataAsset-Bottoms_Female_Hot_Pants_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleDancer1
+    - ToonHotPants1
+    - ToonDancerCollection
+  - m_GUID: fe66eff1c0defe44aa57e93eb152305a
+    m_Address: UMA/OverlayDataAsset-Jeans_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleDancer1
+    - ToonHotPants1
+    - ToonDancerCollection
+  - m_GUID: ebe828fad47d6974d98f634f415815f9
+    m_Address: UMA/OverlayDataAsset-Jeans_1_detail
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleDancer1
+    - ToonHotPants1
+    - ToonDancerCollection
+  - m_GUID: 899377113242564478958a9647388a80
+    m_Address: UMA/SlotDataAsset-UMA_Toon_TORSO-Female
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ToonFemaleUnderwear1
+    - FemaleToonBase
+  - m_GUID: 333cdac71ded22f46b6a0de15b091978
+    m_Address: UMA/OverlayDataAsset-Female_Underwear_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ToonFemaleUnderwear1
+  - m_GUID: 297b82798f9c2de4b891d273268dd65b
+    m_Address: UMA/SlotDataAsset-Hair_Long_Braided_Hair_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ToonHair1
+  - m_GUID: 4f6302b08fbd3fd4abc60ce8e15d57e3
+    m_Address: UMA/OverlayDataAsset-Long_Braided_Hair_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ToonHair1
+  - m_GUID: afd670bc70f75274eb4fae71aa23eaac
+    m_Address: UMA/SlotDataAsset-Bottoms_Female_Capri_Pants_1_LEGS
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleStarDancer1
+    - ToonCapriPants1
+    - ToonStarDancerCollection
+  - m_GUID: 41ad70ca423c43740a5fa85f0ef62442
+    m_Address: UMA/SlotDataAsset-Bottoms_Female_Capri_Pants_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleStarDancer1
+    - ToonCapriPants1
+    - ToonStarDancerCollection
+  - m_GUID: 58d7ecb23020d4146a31d6e77ff22557
+    m_Address: UMA/OverlayDataAsset-Smart_Pants_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleStarDancer1
+    - ToonCapriPants1
+    - ToonStarDancerCollection
+  - m_GUID: b66591cce48d21043a814071716e6281
+    m_Address: UMA/OverlayDataAsset-Smart_Pants_1_detail
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleStarDancer1
+    - ToonCapriPants1
+    - ToonStarDancerCollection
+  - m_GUID: c03cf28ed277e7246a4dfc2e6b550cc1
+    m_Address: UMA/SlotDataAsset-Tops_Female_Halter_Neck_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleStarDancer1
+    - ToonHalterNeck1
+    - ToonStarDancerCollection
+  - m_GUID: a0b2da7dcebf2534c9359d5d87fa9d50
+    m_Address: UMA/OverlayDataAsset-Halter_Neck_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleStarDancer1
+    - ToonHalterNeck1
+    - ToonStarDancerCollection
+  - m_GUID: 8ce8f2c72d5601d4881a47725978e325
+    m_Address: UMA/OverlayDataAsset-Halter_Neck_1_detail
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleStarDancer1
+    - ToonHalterNeck1
+    - ToonStarDancerCollection
+  - m_GUID: 0ec96409ed505ea41a08ee9f877fb5cc
+    m_Address: UMA/SlotDataAsset-Tops_Female_Halter_Neck_1_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleStarDancer1
+    - ToonHalterNeck1
+    - ToonStarDancerCollection
+  - m_GUID: 1c93c34e5ba9413419409dce673c4656
+    m_Address: UMA/SlotDataAsset-Shoes_Fancy_Flats_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleStarDancer1
+    - ToonFancyFlats1
+    - ToonStarDancerCollection
+  - m_GUID: af723046b087198438ac4a32f7c25186
+    m_Address: UMA/OverlayDataAsset-Fancy_Flats_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleStarDancer1
+    - ToonFancyFlats1
+    - ToonStarDancerCollection
+  - m_GUID: 2aa0d5cae5c57a146ad6e43889520c12
+    m_Address: UMA/OverlayDataAsset-Fancy_Flats_1_detail
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleStarDancer1
+    - ToonFancyFlats1
+    - ToonStarDancerCollection
+  - m_GUID: 70b61d5f511fec649a7f297690b022a1
+    m_Address: UMA/OverlayDataAsset-Fancy_Flats_1_detail1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleStarDancer1
+    - ToonFancyFlats1
+    - ToonStarDancerCollection
+  - m_GUID: 6c5d912ba8fa77f449e43391d2d87d88
+    m_Address: UMA/SlotDataAsset-MaleChallengerBoots
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleChallengerBoots
+    - CHALLENGERCOLLECTION
+  - m_GUID: 52356e7a7ac1a79468d88e2b3f918bd6
+    m_Address: UMA/OverlayDataAsset-ChallengerBootsLeather
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleChallengerBoots
+    - CHALLENGERCOLLECTION
+  - m_GUID: 850d610cf1e6f7b4eb4157fc242d5074
+    m_Address: UMA/OverlayDataAsset-ChallengerBootsMetal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleChallengerBoots
+    - CHALLENGERCOLLECTION
+  - m_GUID: 073bb8d1e3dc03140ada534c06d42dff
+    m_Address: UMA/SlotDataAsset-MaleChallengerGloves
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleChallengerGloves
+    - CHALLENGERCOLLECTION
+  - m_GUID: a460597f78928e04a8db0940885eb72a
+    m_Address: UMA/OverlayDataAsset-ChallengerGlovesLeather
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleChallengerGloves
+    - CHALLENGERCOLLECTION
+  - m_GUID: e84b15df5103d0a419f01ffe3e77fb53
+    m_Address: UMA/OverlayDataAsset-ChallengerGlovesMetal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleChallengerGloves
+    - CHALLENGERCOLLECTION
+  - m_GUID: 5dcb82ea78983cf4da0c206fc9de96ae
+    m_Address: UMA/SlotDataAsset-MaleChallengerShouderPads
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleChallengerShouderPads
+    - CHALLENGERCOLLECTION
+  - m_GUID: 9efda53d0ad2efb4da46ef74f26564ce
+    m_Address: UMA/OverlayDataAsset-ChallengerShoulderPadsLeather
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleChallengerShouderPads
+    - CHALLENGERCOLLECTION
+  - m_GUID: 2b7f847e474a9ce43b6dbb01f4b645d0
+    m_Address: UMA/OverlayDataAsset-ChallengerShoulderPadsMetal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleChallengerShouderPads
+    - CHALLENGERCOLLECTION
+  - m_GUID: 863f68599d8ad8b4989c7724bb3b8dd1
+    m_Address: UMA/SlotDataAsset-MaleChallengerTorsoArmor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleChallengerTorso
+    - CHALLENGERCOLLECTION
+  - m_GUID: 734fcc8a0fd1912478c8566fc6eceda7
+    m_Address: UMA/OverlayDataAsset-ChallengerTorsoArmorLeather
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleChallengerTorso
+    - CHALLENGERCOLLECTION
+  - m_GUID: 809c22fcd6389e742a62ec4905d1a101
+    m_Address: UMA/OverlayDataAsset-ChallengerTorsoArmorMetal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleChallengerTorso
+    - CHALLENGERCOLLECTION
+  - m_GUID: 156f9f45fa760b845b6411b1010bf360
+    m_Address: UMA/SlotDataAsset-UMA_Werewolf_Torso
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - WerewolfTShirt
+    - Wolfie
+  - m_GUID: 4990462eeb5376a469915d0af3986876
+    m_Address: UMA/OverlayDataAsset-WerewolfBody
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - WerewolfTShirt
+    - Wolfie
+  - m_GUID: a04e469a0d80a6742a85658cd80912ab
+    m_Address: UMA/OverlayDataAsset-WerewolfShirt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - WerewolfTShirt
+  - m_GUID: a47975f4a828bdf4194bc7c5c27da7f4
+    m_Address: UMA/SlotDataAsset-SkyCarAntenna
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - AntennaRecipe
+  - m_GUID: 27adb7051154579498a6b0ee107ce813
+    m_Address: UMA/OverlayDataAsset-SkyCarBodyOverlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - AntennaRecipe
+    - SpoilerRecipe
+    - StripesRecipe
+    - SkyCarBaseRecipe
+  - m_GUID: 6e03cfedafaf94f48b148cfe04d24f96
+    m_Address: UMA/SlotDataAsset-SkyCarSpoiler
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - SpoilerRecipe
+  - m_GUID: ccdf514727275dc45914627958155442
+    m_Address: UMA/SlotDataAsset-SkyCarBody
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - StripesRecipe
+    - SkyCarBaseRecipe
+  - m_GUID: c494b917f233f9e42a6e34e169909743
+    m_Address: UMA/OverlayDataAsset-SkyCarStripesOverlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - StripesRecipe
+  - m_GUID: d0de49c6701b6fb468994f0dfc267dc9
+    m_Address: UMA/SlotDataAsset-ClothRobeNonSimulated
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ClothRobeRecipe
+  - m_GUID: 4d98ac0c301fa0d4c83550c332d2321a
+    m_Address: UMA/OverlayDataAsset-ClothRobeNonSimulatedOverlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ClothRobeRecipe
+  - m_GUID: 5ab9cab67c9728b42a2ef6bd5f13cf4f
+    m_Address: UMA/SlotDataAsset-ClothRobeSimulated
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ClothRobeRecipe
+  - m_GUID: e06be47adf242924c9fff2c65c65ad5c
+    m_Address: UMA/OverlayDataAsset-ClothRobeSimulatedOverlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ClothRobeRecipe
+  - m_GUID: 34dcbac549d5c964f8c01cb8719d0a99
+    m_Address: UMA/SlotDataAsset-BoneyTail_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - BoneyTail_Recipe
+  - m_GUID: e414c14586660fb46865f0168c8d01dd
+    m_Address: UMA/SlotDataAsset-BoneyTail
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - BoneyTail_Recipe
+  - m_GUID: 515a46b056a0d8d4d8fc2de3b7f58d29
+    m_Address: UMA/SlotDataAsset-PhysicsStandard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - BoneyTail_Recipe
+    - PhysicsStandardRecipe
+  - m_GUID: 69c28e38aa9a02743a3db9a9662159b0
+    m_Address: UMA/SlotDataAsset-Plane_004.006
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Plane_004.006_Recipe
+  - m_GUID: 8a7fc4b8be9544945bbb404f8ba33180
+    m_Address: UMA/SlotDataAsset-F_11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - F_11_Recipe
+  - m_GUID: ca77051c424efc042b5c6e4fafb88728
+    m_Address: UMA/SlotDataAsset-stPhysicsStandard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - stPhysicsStandardRecipe
+  - m_GUID: 28eb41c0530b4de40a063aad9c76ce29
+    m_Address: UMA/SlotDataAsset-st_eyes_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: e30b79074990b814793c58b4ec258baa
+    m_Address: UMA/OverlayDataAsset-stunner_eyes_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 8fd8d8e020d45f7409b8f0e0a26a0f91
+    m_Address: UMA/OverlayDataAsset-st_eyes_iris_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 23e5d9efcdd6ddb42bd27a2b38b857c5
+    m_Address: UMA/OverlayDataAsset-st_eyes_irisInner_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: ae6fa11d207e0f24e9ed111807b8a344
+    m_Address: UMA/OverlayDataAsset-st_eyes_irisFlakes_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: eee11e0b41ce8fc47b1a4e8ab446c4af
+    m_Address: UMA/SlotDataAsset-st_eyelash_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: aa2243f64b5e76043a80228d393a1949
+    m_Address: UMA/OverlayDataAsset-stunner_eyelash_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 4330b2a40bf02714eacd358c1e9316d3
+    m_Address: UMA/OverlayDataAsset-stunner_female_head_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 53dac8edb3ae996468202ad0f2839d10
+    m_Address: UMA/OverlayDataAsset-st_female_head_fat_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 121658c86b507774b860da10d24752ae
+    m_Address: UMA/OverlayDataAsset-st_female_head_thin_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 8789ac4652a0f2942962b9d00e45cade
+    m_Address: UMA/OverlayDataAsset-st_female_head_child_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: df6e6434b31dfac4a992a71527984fd9
+    m_Address: UMA/OverlayDataAsset-st_female_head_muscle_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: da12ad28781d3554d84dc235837a46c4
+    m_Address: UMA/OverlayDataAsset-st_head_muscle_tone_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: db514bae3990b314aa4f627709d5d07c
+    m_Address: UMA/OverlayDataAsset-st_female_head_cheek_size_big_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: a1f59769fe5ea1149b5a251fea41b015
+    m_Address: UMA/OverlayDataAsset-st_female_head_cheek_size_small_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: bfc3adf6ebdb79b43bd674f5906a53e7
+    m_Address: UMA/OverlayDataAsset-st_female_head_chin_pronounced_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: d4aaae5355cfedf42b8afe65d8ef6de8
+    m_Address: UMA/OverlayDataAsset-st_female_head_chin_pronounced_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 27a8228b32d4d12418fef397cba3a919
+    m_Address: UMA/OverlayDataAsset-st_female_head_chin_size_large_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 34da893aa91535246bb4ce07ada39bae
+    m_Address: UMA/OverlayDataAsset-st_female_head_chin_size_narrow_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 850e31bf7187f7c47a088200992d4535
+    m_Address: UMA/OverlayDataAsset-st_female_head_eye_depth_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 79902dab048295542afbf6b3eab1c45d
+    m_Address: UMA/OverlayDataAsset-st_female_head_eye_depth_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 102d83ece4132bc4e8c6e5e9b0640923
+    m_Address: UMA/OverlayDataAsset-st_female_head_eye_size_big_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: a30b5422891f4df44a9d5ee5237d9806
+    m_Address: UMA/OverlayDataAsset-st_female_head_eye_size_small_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: b15bf82162757c64ca9fb3b9cd0cab94
+    m_Address: UMA/OverlayDataAsset-st_female_head_forehead_position_down_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 8d4d8f67316f1134cbfad9ed4984b958
+    m_Address: UMA/OverlayDataAsset-st_female_head_forehead_position_up_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: b82abf9f4d3e4b04ea545d1741fd8ff0
+    m_Address: UMA/OverlayDataAsset-st_female_head_forehead_size_bck_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: b7655afa9e0cf7a4f87724eac77b577d
+    m_Address: UMA/OverlayDataAsset-st_female_head_forehead_size_fwd_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 92b95e71d0f46e343ad467cce96cd55a
+    m_Address: UMA/OverlayDataAsset-st_female_head_jaws_position_down_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 9d612666256461846b0d868570c3b799
+    m_Address: UMA/OverlayDataAsset-st_female_head_jaws_position_up_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 6dc1ff5548cff0344bc7dc57a11a756b
+    m_Address: UMA/OverlayDataAsset-st_female_head_jaws_size_big_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 7948dba12c582954fbd38aa8b81267dc
+    m_Address: UMA/OverlayDataAsset-st_female_head_jaws_size_small_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 9858bad24abb94946b092023733b2810
+    m_Address: UMA/OverlayDataAsset-st_female_head_lips_size_big_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 4047f8bc5670b584cb02a04125e864f9
+    m_Address: UMA/OverlayDataAsset-st_female_head_lips_size_small_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 714d114777cc30242ba05e0a4275f089
+    m_Address: UMA/OverlayDataAsset-st_female_head_low_cheek_size_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 4ce17cf445a406743a909ebd09eba96e
+    m_Address: UMA/OverlayDataAsset-st_female_head_low_cheek_size_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 8f0b07f366b3b64489845760c2e079f8
+    m_Address: UMA/OverlayDataAsset-st_female_head_mandible_size_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: cb15ec65a1d3ce84698d5697010c4dce
+    m_Address: UMA/OverlayDataAsset-st_female_head_mandible_size_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 2b5d03ab9ecb1bb4695f74469edf779e
+    m_Address: UMA/OverlayDataAsset-st_female_head_mouth_position_down_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: b2b7ed4b639925e4b84a8fa0b7a0b3f3
+    m_Address: UMA/OverlayDataAsset-st_female_head_mouth_position_up_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 845a3af3de96d004baa5bd4e5846cf14
+    m_Address: UMA/OverlayDataAsset-st_female_head_mouth_pronounced_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 31064af075ecf22469b95105267ad6b8
+    m_Address: UMA/OverlayDataAsset-st_female_head_mouth_pronounced_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: b63be48f33afb4149a4b2008b1cbad26
+    m_Address: UMA/OverlayDataAsset-st_female_head_mouth_size_narrow_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 684c3a88bed837942ae8e554ea112d8a
+    m_Address: UMA/OverlayDataAsset-st_female_head_mouth_size_wide_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: c9a0fbbc02c6ca444b3ffed5e518c671
+    m_Address: UMA/OverlayDataAsset-st_female_head_nose_bridge_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 1b8fae101efd8cd4b9b973c833be9539
+    m_Address: UMA/OverlayDataAsset-st_female_head_nose_bridge_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: e9bd1e7a7241d974c94e99f0db4a862d
+    m_Address: UMA/OverlayDataAsset-st_female_head_nose_curve_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 38658d1cfabd95a45a6e85bca82c5c3d
+    m_Address: UMA/OverlayDataAsset-st_female_head_nose_curve_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 45f91c6ac71b9304b8b55f6c43d97f90
+    m_Address: UMA/OverlayDataAsset-st_female_head_nose_flatten_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: acd255ece80e99d4e8a318bf98ed6a8e
+    m_Address: UMA/OverlayDataAsset-st_female_head_nose_flatten_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 23324b7536efd0f418e10449c5244b98
+    m_Address: UMA/OverlayDataAsset-st_female_head_nose_inclination_down_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 4379dc08778fc8c4886370c400b86cf3
+    m_Address: UMA/OverlayDataAsset-st_female_head_nose_inclination_up_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: bc27df1bd3bf8f948811e3d638758994
+    m_Address: UMA/OverlayDataAsset-st_female_head_nose_position_down_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 752c851dcd77e894f87fc4847dce7426
+    m_Address: UMA/OverlayDataAsset-st_female_head_nose_position_up_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 27d84259babebf543aa1c1d5cb879d74
+    m_Address: UMA/OverlayDataAsset-st_female_head_nose_pronounced_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: adf9bd45a4597ea4eba1c26807c97f3c
+    m_Address: UMA/OverlayDataAsset-st_female_head_nose_pronounced_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: b496ad70b87e9a64b930ee5a650850e5
+    m_Address: UMA/OverlayDataAsset-st_head_age_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: fff3a0535c5bcbc49b96a59cc06bae20
+    m_Address: UMA/OverlayDataAsset-st_female_head_cheek_pos_down_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: ebc4c03e53e58634c8c0f7ee609c84b3
+    m_Address: UMA/OverlayDataAsset-st_female_head_cheek_pos_up_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 3d6b001e4f086594c94a2405052376ce
+    m_Address: UMA/OverlayDataAsset-st_female_head_skinPale_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 93e3c18e36a5c5b468679a1b5fd1eb8e
+    m_Address: UMA/SlotDataAsset-st_female_arm_lowerL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 59aca70d43e1d6f469a6ab580d0e1ba4
+    m_Address: UMA/OverlayDataAsset-stunner_female_body_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 887bfd42e4587c348829e2af0dc9b401
+    m_Address: UMA/OverlayDataAsset-st_female_body_fat_upper_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: ca32972ca4731a949a1cc017e8ec299c
+    m_Address: UMA/OverlayDataAsset-st_female_body_breast_small_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: f763350b152ee1844a55e27d6a6996f0
+    m_Address: UMA/OverlayDataAsset-st_female_body_belly_big_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 61a45b7ff7dedda46ad3239ca7e903ce
+    m_Address: UMA/OverlayDataAsset-st_female_body_fat_lower_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 0f5c45ffea77091438173195bb450270
+    m_Address: UMA/OverlayDataAsset-st_female_body_thin_upper_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 2d124def3b9fd4c4081599026189ad79
+    m_Address: UMA/OverlayDataAsset-st_female_body_thin_lower_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: d4a0d088d73199940846414a1d44b64b
+    m_Address: UMA/OverlayDataAsset-st_female_body_pregnant_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 760b89b20fba02d4793b1400d90f93e9
+    m_Address: UMA/OverlayDataAsset-st_female_body_child_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: abd2d3667f6e67c47ac7101def36cde9
+    m_Address: UMA/OverlayDataAsset-st_female_body_muscle_lower_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 043d053529fb9d847bca905143053a31
+    m_Address: UMA/OverlayDataAsset-st_female_body_muscle_upper_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 09f1d54a8ef6e9e42ae73aefc2deeb69
+    m_Address: UMA/OverlayDataAsset-st_body_age_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: fb66d0f34b9671345918abc05190926d
+    m_Address: UMA/OverlayDataAsset-st_body_muscle_tone_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 3db16287347d07643a9beb4b462b3b9c
+    m_Address: UMA/OverlayDataAsset-st_female_body_skinPale_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 58250828acf20404ebbd72139feceb14
+    m_Address: UMA/SlotDataAsset-st_female_arm_lowerR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: c8a9f56338c6cdc49ba40590bba41b12
+    m_Address: UMA/SlotDataAsset-st_female_arm_upperL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 937b1070b48b3e14786028ef5c154ecf
+    m_Address: UMA/SlotDataAsset-st_female_arm_upperR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 837918e83cf76ad4189702c41463f934
+    m_Address: UMA/SlotDataAsset-st_female_handL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 0e09d22244b40e7488ab08249ef93433
+    m_Address: UMA/SlotDataAsset-st_female_handR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+  - m_GUID: 8ca12b4bd7bb325489a171b807e7ea34
+    m_Address: UMA/SlotDataAsset-st_teeth_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: e216a658ad2d5b34bbf27a870a7a8ff1
+    m_Address: UMA/OverlayDataAsset-stunner_teeth_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 2dbbe8b69d37d1943b2ce959f0f91514
+    m_Address: UMA/SlotDataAsset-st_inner_mouth_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 770aace9a0b71f84c9b7f34934b076cd
+    m_Address: UMA/OverlayDataAsset-stunner_inner_mouth_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: ac39f25de9463754689233612e676296
+    m_Address: UMA/OverlayDataAsset-st_inner_mouth_skinPale_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: ffbcd2a840eb1dd40bcae196ffa5194c
+    m_Address: UMA/SlotDataAsset-st_toesL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: f0b7c5b85624e6947b881d7be75b854c
+    m_Address: UMA/SlotDataAsset-st_toesR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerFemaleBaseRecipe
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 03eabf52df07ab142a6241d4c73ea986
+    m_Address: UMA/SlotDataAsset-st_male_arm_lowerL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 50927cd2faecda943a23598482f25251
+    m_Address: UMA/OverlayDataAsset-st_male_body_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 59841d66f5be6394db17316890986d27
+    m_Address: UMA/OverlayDataAsset-st_male_body_fat_lower_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: ecf2bcec23ea5a847855669fb678a5fe
+    m_Address: UMA/OverlayDataAsset-st_male_body_fat_upper_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 524adb51115c77b4eb6a8417dd68a5de
+    m_Address: UMA/OverlayDataAsset-st_male_body_belly_big_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 6823526383acd3b4c8ca760fb85c5fe9
+    m_Address: UMA/OverlayDataAsset-st_male_body_breast_small_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 77f2cc17ab4531f47bc0a0ffec833855
+    m_Address: UMA/OverlayDataAsset-st_male_body_breast_big_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: c4078d160738c11459eb8bb698b471df
+    m_Address: UMA/OverlayDataAsset-male_breast_muscle_tone_Normal_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 2248760739c195c469759b09563fe7b3
+    m_Address: UMA/OverlayDataAsset-st_male_body_thin_lower_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: c0da1a8a73b5773419d61f7767fcac76
+    m_Address: UMA/OverlayDataAsset-st_male_body_thin_upper_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: e0333ee0d49b40140b3b563397a0feff
+    m_Address: UMA/OverlayDataAsset-st_male_body_child_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 8b4f0c852fc79b042931ebbb741a5932
+    m_Address: UMA/OverlayDataAsset-st_male_body_muscle_lower_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 96c409f233d83634fbae405b5359ad69
+    m_Address: UMA/OverlayDataAsset-st_male_body_muscle_upper_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 5ba4434c07d19ea428a02a4a766423dd
+    m_Address: UMA/OverlayDataAsset-st_male_body_skinPale_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 9d859b3b82b089748a8e9ffde984cd16
+    m_Address: UMA/SlotDataAsset-st_male_arm_lowerR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: e76e0b4e8a2107d4ebf4016acecc6c45
+    m_Address: UMA/SlotDataAsset-st_male_arm_upperL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: d6aed03d231dca247b92bb5a974a385c
+    m_Address: UMA/SlotDataAsset-st_male_arm_upperR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 1b4d15d2924f5f04bab99e200f9b2a5a
+    m_Address: UMA/SlotDataAsset-st_male_footL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: d154af0d95536a44198b18f5c856b7fd
+    m_Address: UMA/SlotDataAsset-st_male_footR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 01cbb1fdbe827104e97c64b2c9f031dc
+    m_Address: UMA/SlotDataAsset-st_male_handL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 5731593e82c66a745b217b825487422f
+    m_Address: UMA/SlotDataAsset-st_male_handR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 4697cfe75927b384c910f7972fa6c05e
+    m_Address: UMA/SlotDataAsset-st_male_leg_lowerL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 009a71f398c223943928b264da3235ce
+    m_Address: UMA/SlotDataAsset-st_male_leg_lowerR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 012c6f1b33ac5894eaea3d7ff1858819
+    m_Address: UMA/SlotDataAsset-st_male_leg_upperL_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: a63267da29bbc7645ba911ad4f7de4c5
+    m_Address: UMA/SlotDataAsset-st_male_leg_upperR_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 11137d3ffe785ce4aa1abe3d9c3f7715
+    m_Address: UMA/SlotDataAsset-st_male_torso_lower_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: c12de43d22046ff4b840edc9d56ac0df
+    m_Address: UMA/OverlayDataAsset-st_male_head_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 4f040a38baafc374d82ee99d48fa58c8
+    m_Address: UMA/OverlayDataAsset-male_base_head_Normal_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: dd1f05358d253194a88594e9a1712e56
+    m_Address: UMA/OverlayDataAsset-st_male_head_fat_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: d968784d839da7b47bd2975ce64e4433
+    m_Address: UMA/OverlayDataAsset-st_male_head_thin_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: d07a8d274f449ab4782e8f6ec3a477ea
+    m_Address: UMA/OverlayDataAsset-st_male_head_child_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: a0a940b7e81d65849a7d1fcce1fb491d
+    m_Address: UMA/OverlayDataAsset-st_male_head_muscle_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: bdaaea59c860ede4ba5ee79eb97bd2d3
+    m_Address: UMA/OverlayDataAsset-st_male_head_cheek_pos_down_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: c23bdcdfaf1ed9a4dbdb69432fdd4bf6
+    m_Address: UMA/OverlayDataAsset-st_male_head_cheek_pos_up_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 5d31ff515ba6feb47a82412019ac3397
+    m_Address: UMA/OverlayDataAsset-st_male_head_cheek_size_big_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 3854c88007c62f34cbd858377c928ea5
+    m_Address: UMA/OverlayDataAsset-st_male_head_cheek_size_small_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 7a49158b3d3bfe44c98376ed683722f2
+    m_Address: UMA/OverlayDataAsset-st_male_head_chin_pronounced_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 3872cf19e20436a4d850b884152837ad
+    m_Address: UMA/OverlayDataAsset-st_male_head_chin_pronounced_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 3b1136ecece1c0a42a4a400bc5d18c15
+    m_Address: UMA/OverlayDataAsset-st_male_head_chin_size_large_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 0b21b940845e125428ebb980a1c99b96
+    m_Address: UMA/OverlayDataAsset-st_male_head_chin_size_narrow_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: cfa4b3ae429452847beb6091be2ac2a2
+    m_Address: UMA/OverlayDataAsset-st_male_head_eye_depth_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 388f5cdbb85a5f141a33d55a63e106aa
+    m_Address: UMA/OverlayDataAsset-st_male_head_eye_depth_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: e70d018263e242c40a86a5c20ff315da
+    m_Address: UMA/OverlayDataAsset-st_male_head_eye_size_big_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: d8b6b2c82dff7234b9cf94adeebff3a7
+    m_Address: UMA/OverlayDataAsset-st_male_head_eye_size_small_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: b18397c31a45f7347ba3286e8c6bb456
+    m_Address: UMA/OverlayDataAsset-st_male_head_forehead_position_down_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 2b9682e9bdcb16a43b3b5066a0e7b3f4
+    m_Address: UMA/OverlayDataAsset-st_male_head_forehead_position_up_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 80d1c76d8adad6e468b75907a66423c6
+    m_Address: UMA/OverlayDataAsset-st_male_head_forehead_size_bck_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 41054c13aa9580046b748ed3065f52ae
+    m_Address: UMA/OverlayDataAsset-st_male_head_forehead_size_fwd_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 54730a89ba4e2b54881c18f069210cd6
+    m_Address: UMA/OverlayDataAsset-st_male_head_jaws_position_down_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 395db6034eabcb3408aae595f922966c
+    m_Address: UMA/OverlayDataAsset-st_male_head_jaws_position_up_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 15c201963e8f512418550574742a6177
+    m_Address: UMA/OverlayDataAsset-st_male_head_jaws_size_big_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 63821e6ef0f297c4dbdc5e0856f23e1e
+    m_Address: UMA/OverlayDataAsset-st_male_head_jaws_size_small_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: e477b417bd745784684b1333275b2c2d
+    m_Address: UMA/OverlayDataAsset-st_male_head_lips_size_big_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: b7e5e35c0d605b14aa59c35f532fd45c
+    m_Address: UMA/OverlayDataAsset-st_male_head_lips_size_small_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: da7299093466df44ba2e6b3c61feeac5
+    m_Address: UMA/OverlayDataAsset-st_male_head_low_cheek_size_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: d7b39d96908ce4e448295262d2ff22d7
+    m_Address: UMA/OverlayDataAsset-st_male_head_low_cheek_size_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: d636c9c7a95524644b4716daf78b7cf9
+    m_Address: UMA/OverlayDataAsset-st_male_head_mandible_size_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: cbee2a5a54ae5614085c15469a6d33c8
+    m_Address: UMA/OverlayDataAsset-st_male_head_mandible_size_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 085ab896eab0a4f49a4e99c4a6536d8f
+    m_Address: UMA/OverlayDataAsset-st_male_head_mouth_position_down_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 10d1a5a12da9d314ab81d8ce8c1f6815
+    m_Address: UMA/OverlayDataAsset-st_male_head_mouth_position_up_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 6bba8f50c27f27b42be9d932667816d3
+    m_Address: UMA/OverlayDataAsset-st_male_head_mouth_pronounced_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 042c5f5cb610f7c40a5dd230d7ddc4f3
+    m_Address: UMA/OverlayDataAsset-st_male_head_mouth_pronounced_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: c6d599d6bd4367d42a60f7a879af0859
+    m_Address: UMA/OverlayDataAsset-st_male_head_mouth_size_narrow_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 65465f2a0230b494c8d599ea09476b52
+    m_Address: UMA/OverlayDataAsset-st_male_head_mouth_size_wide_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: d2cde344ebfad3241a2432776a611f56
+    m_Address: UMA/OverlayDataAsset-st_male_head_nose_bridge_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: b3738ee40ccdba0458b8c9cd60fd3c59
+    m_Address: UMA/OverlayDataAsset-st_male_head_nose_bridge_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: ac4fb3dd05b4b3c48beeb2b86c08c2a2
+    m_Address: UMA/OverlayDataAsset-st_male_head_nose_curve_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 9000997b071c57447addc5a1e82ed062
+    m_Address: UMA/OverlayDataAsset-st_male_head_nose_curve_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 61615b56304424f42a64c49fefb257ce
+    m_Address: UMA/OverlayDataAsset-st_male_head_nose_flatten_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 91b90aa67445ce348949a2e378f9e9b6
+    m_Address: UMA/OverlayDataAsset-st_male_head_nose_flatten_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 1006e46d989d9bc4492567a2eac3e277
+    m_Address: UMA/OverlayDataAsset-st_male_head_nose_inclination_down_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 35ed50f8a25c7424f895ae756b4940e2
+    m_Address: UMA/OverlayDataAsset-st_male_head_nose_inclination_up_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: cf394ab6cad574c42980b697a35f5e4e
+    m_Address: UMA/OverlayDataAsset-st_male_head_nose_position_down_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 66ece42395d244b4b9a0679bb63f0598
+    m_Address: UMA/OverlayDataAsset-st_male_head_nose_position_up_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 2cfbff1dac239ef488949c310ec93fa0
+    m_Address: UMA/OverlayDataAsset-st_male_head_nose_pronounced_in_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 44affbe521844394b910b265b0dcd585
+    m_Address: UMA/OverlayDataAsset-st_male_head_nose_pronounced_out_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 085106ddf5f035f48937f00ae0afd207
+    m_Address: UMA/OverlayDataAsset-st_male_head_skinPale_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - o3nStunnerMaleBaseRecipe
+  - m_GUID: 1e7ddc02cd51b41488288a4982ca4274
+    m_Address: UMA/SlotDataAsset-FemaleEyes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+    - Shelly
+  - m_GUID: 98b05b17b4e8ff142b1f16df2ef2315b
+    m_Address: UMA/OverlayDataAsset-Eye Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanFemaleHighPoly
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - ElfMale Base Recipe
+    - HumanMale Base Recipe
+    - HumanMaleHighPoly
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - Puck
+    - PuckDCS
+    - DNAConverterControllerExample Base Recipe
+    - Harold
+    - KimCardassian
+    - Shelly
+    - Sven
+    - Troll
+    - MaleBase2
+  - m_GUID: 31b625579c8744547b02bdd5c42c557e
+    m_Address: UMA/OverlayDataAsset-Default Eye Adjust
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanFemaleHighPoly
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - ElfMale Base Recipe
+    - HumanMale Base Recipe
+    - HumanMaleHighPoly
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - DNAConverterControllerExample Base Recipe
+    - KimCardassian
+    - Shelly
+  - m_GUID: 0bfd4db5ca8f3f44e912a809539ed57c
+    m_Address: UMA/SlotDataAsset-FemaleEyelashfix
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanFemaleHighPoly
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+    - Shelly
+  - m_GUID: a61b80b3ef057274e93e5d8c6a2aacec
+    m_Address: UMA/OverlayDataAsset-FemaleEyelash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanFemaleHighPoly
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+    - Shelly
+  - m_GUID: 4755d55edbb90be4f9de4b4081105c55
+    m_Address: UMA/SlotDataAsset-FemaleHands
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+    - Shelly
+  - m_GUID: 4f8b15f6d0318a24cb5264f835574c0c
+    m_Address: UMA/SlotDataAsset-FemaleFeet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+    - Shelly
+  - m_GUID: afecbdb8f051eff408e0749bb6a44bf1
+    m_Address: UMA/OverlayDataAsset-ElvenEars
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Elf Female Base Race Recipe
+    - ElfMale Base Recipe
+  - m_GUID: 58e5a93186f923c4ca7910365d807714
+    m_Address: UMA/SlotDataAsset-F_High poly head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanFemale Base Recipe
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+  - m_GUID: 7175f4c977569f748a2c19a6c9f2ab10
+    m_Address: UMA/OverlayDataAsset-FemaleLipstick01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanFemale Base Recipe
+    - KimCardassian
+  - m_GUID: 810b579078122004a94ac82abc7c2fe5
+    m_Address: UMA/SlotDataAsset-FR_High_FemaleEyes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanFemaleHighPoly
+  - m_GUID: 1b412947a734f7347a7d7fb3bc3bd7f1
+    m_Address: UMA/SlotDataAsset-FR_High_FemaleFace
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanFemaleHighPoly
+  - m_GUID: e2e11d8a75e5b7642847b0f0609aeb11
+    m_Address: UMA/SlotDataAsset-FR_High_FemaleFeet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanFemaleHighPoly
+  - m_GUID: 8fff2e38737b1bc42842ab99f23ace26
+    m_Address: UMA/SlotDataAsset-FR_High_FemaleHands
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanFemaleHighPoly
+  - m_GUID: 18c5922fb2bcf334fb36963c4168859e
+    m_Address: UMA/SlotDataAsset-FR_High_FemaleInnerMouth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanFemaleHighPoly
+  - m_GUID: e913820d10d545d4caa7b3221853e8d2
+    m_Address: UMA/SlotDataAsset-FR_High_FemaleLegs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanFemaleHighPoly
+  - m_GUID: 7ade72c73b264994b9ecae5a125d2e7f
+    m_Address: UMA/SlotDataAsset-FR_High_FemaleTorso
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanFemaleHighPoly
+  - m_GUID: cc6c17656f669be4bbb2e21d48e57a45
+    m_Address: UMA/SlotDataAsset-MaleInnerMouth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ElfMale Base Recipe
+    - HumanMale Base Recipe
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - Puck
+    - PuckDCS
+    - DNAConverterControllerExample Base Recipe
+    - Harold
+    - Sven
+    - Troll
+    - MaleBase2
+  - m_GUID: e7c8290369e5f724e8e185a77240e37e
+    m_Address: UMA/SlotDataAsset-MaleFeet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ElfMale Base Recipe
+    - HumanMale Base Recipe
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - Puck
+    - PuckDCS
+    - DNAConverterControllerExample Base Recipe
+    - Harold
+    - Sven
+    - Troll
+    - MaleBase2
+  - m_GUID: 881f10d72572db34cb1150ac3df21a97
+    m_Address: UMA/SlotDataAsset-MaleHands
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ElfMale Base Recipe
+    - HumanMale Base Recipe
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - Puck
+    - PuckDCS
+    - DNAConverterControllerExample Base Recipe
+    - Harold
+    - Sven
+    - Troll
+    - MaleBase2
+  - m_GUID: 66dc6991ea490104ca812bba7bae9524
+    m_Address: UMA/SlotDataAsset-MaleHead_Nose
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ElfMale Base Recipe
+    - Troll
+  - m_GUID: 8a26b0d5108b3df40afa563c81076268
+    m_Address: UMA/SlotDataAsset-MaleHead_Eyes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ElfMale Base Recipe
+    - Troll
+  - m_GUID: 498d55a6668af824ca9b8a1fab1764da
+    m_Address: UMA/SlotDataAsset-MaleHead_Mouth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ElfMale Base Recipe
+    - Troll
+  - m_GUID: 158625e1782339b47ab36baa044aa6bb
+    m_Address: UMA/SlotDataAsset-MaleHead_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ElfMale Base Recipe
+    - Troll
+  - m_GUID: 2ea0c2632af00954d80449e69aae3961
+    m_Address: UMA/SlotDataAsset-MaleHead_ElvenEars
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ElfMale Base Recipe
+    - Troll
+  - m_GUID: b520f86d1223e3b4999507cee7b6958c
+    m_Address: UMA/SlotDataAsset-M_High poly Eyelash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanMale Base Recipe
+  - m_GUID: 8598e407f98b3b745980a5ade46c86ab
+    m_Address: UMA/OverlayDataAsset-M_Eyelash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanMale Base Recipe
+  - m_GUID: 208231186809c1c41994c39b4bd03d4c
+    m_Address: UMA/SlotDataAsset-FR_High_MaleFace
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanMaleHighPoly
+  - m_GUID: 4e85a43fe17f4e041b0a7fc0915b59fe
+    m_Address: UMA/SlotDataAsset-FR_High_MaleEyes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanMaleHighPoly
+  - m_GUID: 6f177e950d553e04381fda817cf2ac51
+    m_Address: UMA/SlotDataAsset-FR_High_MaleInnerMouth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanMaleHighPoly
+  - m_GUID: 35891113f5f78994585351984f148ffe
+    m_Address: UMA/SlotDataAsset-FR_High_MaleFeet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanMaleHighPoly
+  - m_GUID: c687228326f23f84c9271513f3a10dbe
+    m_Address: UMA/SlotDataAsset-FR_High_MaleHands
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanMaleHighPoly
+  - m_GUID: 7e3217f7c0af3aa489cb18e2de8ac888
+    m_Address: UMA/SlotDataAsset-FR_High_MaleLegs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanMaleHighPoly
+  - m_GUID: c6358aa8f36b22846bb85f26a30e8c6a
+    m_Address: UMA/SlotDataAsset-FR_High_MaleTorso
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - HumanMaleHighPoly
+  - m_GUID: edcf92bdef3d2e04c980749f7d702647
+    m_Address: UMA/SlotDataAsset-Expressions
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ExpressionsRecipe
+  - m_GUID: 98c6dc40a5e2e4f3f92aabfafaf67c78
+    m_Address: UMA/SlotDataAsset-ForearmTwist
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - ForearmTwistRecipe
+  - m_GUID: 0fbc0a0bbfb29084bbeafb0876b6e28b
+    m_Address: UMA/SlotDataAsset-Locomotion
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - LocomotionRecipe
+  - m_GUID: bc5ef2dcc0274644bb1733e78ad1514d
+    m_Address: UMA/SlotDataAsset-PhysicsHD
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - PhysicsHDRecipe
+  - m_GUID: 5a63f3d521484f345b330eaa6ddd496e
+    m_Address: UMA/OverlayDataAsset-EyeOverlayAdjust
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Puck
+    - PuckDCS
+    - Harold
+    - Sven
+    - Troll
+    - MaleBase2
+  - m_GUID: 060710660a79b9549b07a47ba0c1fbe2
+    m_Address: UMA/OverlayDataAsset-Body Hair
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Puck
+    - PuckDCS
+    - Harold
+  - m_GUID: 5fd5270c8c2ab624caef7289850414e0
+    m_Address: UMA/SlotDataAsset-UMA_Toon_FACE-Female
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBase
+  - m_GUID: 9259f183d811e5c4e8abc46ba7c5e7ec
+    m_Address: UMA/SlotDataAsset-UMA_Toon_EYES
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBase
+  - m_GUID: d3c1dfe0b3c39a640bd2a2aacd9c2325
+    m_Address: UMA/OverlayDataAsset-UMA_Toon_Eyes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBase
+  - m_GUID: f3d3ab10c4fb9b748805d896685c7911
+    m_Address: UMA/SlotDataAsset-UMA_Toon_INNERMOUTH
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBase
+  - m_GUID: aac8da086dd8f7748ae3dc6b43ce490d
+    m_Address: UMA/OverlayDataAsset-UMA_Toon_InnerMouth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBase
+  - m_GUID: e81fb0b8a05fdfe48a4f248a0816e6cb
+    m_Address: UMA/SlotDataAsset-UMA_Toon_HANDS
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBase
+  - m_GUID: 4652d37480c971743a1b555c6e3ea849
+    m_Address: UMA/SlotDataAsset-UMA_Toon_FEET
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBase
+  - m_GUID: 8a5bad3721ee48742ab9520a0afee680
+    m_Address: UMA/SlotDataAsset-UMA_Toon_LASHES-Female
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBase
+  - m_GUID: 1f56427ed446efb4ab930c97d3076a8e
+    m_Address: UMA/OverlayDataAsset-UMA_Toon_F_Lashes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBase
+  - m_GUID: ff4587ecabedb304595865825949f485
+    m_Address: UMA/SlotDataAsset-UMA_Toon_LEGS-Female
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBase
+  - m_GUID: cda4a55bec197c646a1e3e11583d7ef4
+    m_Address: UMA/SlotDataAsset-UMA_Werewolf_Claws
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: b0ee18ecb3eb22847b9dafe3ac63c42a
+    m_Address: UMA/OverlayDataAsset-WerewolfClaws
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: 407eef4d2f8612444bdf249bedb33cce
+    m_Address: UMA/SlotDataAsset-UMA_Werewolf_Feet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: fd983ace9923d5244bf7876fb75df05a
+    m_Address: UMA/OverlayDataAsset-WerewolfHandsAndFeet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: 3a301cdd355272946a7fcf42c36e2337
+    m_Address: UMA/SlotDataAsset-UMA_Werewolf_Hands
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: a2cfb51958276a643b9e80a541702b9d
+    m_Address: UMA/SlotDataAsset-UMA_Werewolf_InnerMouth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: caea7f4665259e949a142041d05e3d94
+    m_Address: UMA/OverlayDataAsset-WerewolfInnerMouth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: d5f6390fe392d644697f86246391cb8c
+    m_Address: UMA/SlotDataAsset-UMA_Werewolf_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: 58f931091c1c4f24c93d1d911b8c032b
+    m_Address: UMA/SlotDataAsset-UMA_Werewolf_Teeth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: 0c812749c2cd1a541b79b1fe749694c2
+    m_Address: UMA/OverlayDataAsset-WerewolfTeeth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: e51f46710c96a924aa03b2f4dd7bfe7a
+    m_Address: UMA/SlotDataAsset-UMA_Werewolf_Face
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: f6144f3f9b3aeee4884f86cf9ff32816
+    m_Address: UMA/OverlayDataAsset-WerewolfHead
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: b1e94d3cf1101164fa077e48b9276643
+    m_Address: UMA/SlotDataAsset-UMA_Werewolf_Eyes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: 0b1e4f14e3922614c95b147bed97cf3a
+    m_Address: UMA/OverlayDataAsset-WerewolfEyes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Wolfie
+  - m_GUID: 48a01bab7f0078a49a6375335b25a2ac
+    m_Address: UMA/SlotDataAsset-UMA_Toon_EYES_Guide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBaseGuide
+  - m_GUID: 07908c48b4fc24542bd91f7d94e4a4f7
+    m_Address: UMA/OverlayDataAsset-GuideMeshOverlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBaseGuide
+    - GirlBaseGuide
+  - m_GUID: 9e73f83b679477241bb3714a0071641f
+    m_Address: UMA/SlotDataAsset-UMA_Toon_FACE-Female-Guide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBaseGuide
+  - m_GUID: 356ec1d28bd925b498e3fd04cc23502c
+    m_Address: UMA/SlotDataAsset-UMA_Toon_FEET_Guide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBaseGuide
+  - m_GUID: 080febfeb9fabef40869c10c29e7b808
+    m_Address: UMA/SlotDataAsset-UMA_Toon_HANDS_Guide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBaseGuide
+  - m_GUID: 41c114273632845418c2782ce5be2634
+    m_Address: UMA/SlotDataAsset-UMA_Toon_INNERMOUTH_Guide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBaseGuide
+  - m_GUID: 3a2c1f4009edc2343a2e2da1342f64e2
+    m_Address: UMA/SlotDataAsset-UMA_Toon_LASHES-Female-Guide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBaseGuide
+  - m_GUID: 917d126d626e02c408f7cb57bd44e83b
+    m_Address: UMA/SlotDataAsset-UMA_Toon_LEGS-Female-Guide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBaseGuide
+  - m_GUID: 46906d9a196de0a4c88a8fe830ab7aed
+    m_Address: UMA/SlotDataAsset-UMA_Toon_TORSO-Female-Guide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - FemaleToonBaseGuide
+  - m_GUID: d262af4b07475c448abbc6ec5e59b135
+    m_Address: UMA/SlotDataAsset-FemaleFaceGuide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - GirlBaseGuide
+  - m_GUID: 0295a68ebb3f445488d01e1e501afe45
+    m_Address: UMA/SlotDataAsset-FemaleFeetGuide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - GirlBaseGuide
+  - m_GUID: 454cabd70f40e964cb305d827f400774
+    m_Address: UMA/SlotDataAsset-FemaleHandsGuide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - GirlBaseGuide
+  - m_GUID: 9e54abd995fa77947ab57e75d12fe27b
+    m_Address: UMA/SlotDataAsset-FemaleLegsGuide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - GirlBaseGuide
+  - m_GUID: 4abeb20a4257e8b4f837411cb588f6ca
+    m_Address: UMA/SlotDataAsset-FemaleTorsoGuide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - GirlBaseGuide
+  - m_GUID: 672ff22b18b5252489801090dc0e68a8
+    m_Address: UMA/SlotDataAsset-FemaleInnerMouthGuide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - GirlBaseGuide
+  - m_GUID: d0dc50436d1fb0a49b53658adecaacf9
+    m_Address: UMA/SlotDataAsset-FemaleEyesGuide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - GirlBaseGuide
+  - m_GUID: 7432026abcc621b4f9b72ce698b0e1c3
+    m_Address: UMA/SlotDataAsset-FemaleEyelashGuide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - GirlBaseGuide
+  - m_GUID: 230ec082a97430c4da05bcd1157f7b44
+    m_Address: UMA/SlotDataAsset-SkyCarHubCaps
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - SkyCarBaseRecipe
+  - m_GUID: e7b8e0cbb5d59684fa2c2dc87d360ea8
+    m_Address: UMA/OverlayDataAsset-SkyCarHubCapsOverlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - SkyCarBaseRecipe
+  - m_GUID: a3787093e63eb3a449d40959588abcb7
+    m_Address: UMA/SlotDataAsset-SkyCarTires
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - SkyCarBaseRecipe
+  - m_GUID: c1d782df9dd936a4db81356428f06892
+    m_Address: UMA/OverlayDataAsset-SkyCarTiresOverlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - SkyCarBaseRecipe
+  - m_GUID: e17ed6a342f054b4ab8f3dd2fdea7fa1
+    m_Address: UMA/OverlayDataAsset-SkyCarWindowsOverlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - SkyCarBaseRecipe
+  - m_GUID: 8e355a06d2222734f92344952e5cc8e5
+    m_Address: UMA/SlotDataAsset-SkyCarMudGuards
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - SkyCarBaseRecipe
+  - m_GUID: 45c60a52856ef014db9ac30909401956
+    m_Address: UMA/SlotDataAsset-SkyCarSuspension
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - SkyCarBaseRecipe
+  - m_GUID: 8c601176f98bef942b8787fe6421b0f4
+    m_Address: UMA/SlotDataAsset-FemaleFace
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - KimCardassian
+  - m_GUID: f3ed1216fb09ee24f83e35b72805413f
+    m_Address: UMA/OverlayDataAsset-FemaleUnderwear01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - KimCardassian
+    - FemaleOutfit1
+  - m_GUID: 3e2301213b719e549ad53ae013abcde2
+    m_Address: UMA/OverlayDataAsset-FemaleEyebrow01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Shelly
+  - m_GUID: 3693609360e037e40a7784ab3308e7c0
+    m_Address: UMA/OverlayDataAsset-ElvenEars-1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Shelly
+    - Troll
+  - m_GUID: 1320201c90abfb148ba70377406b5dc4
+    m_Address: UMA/OverlayDataAsset-Skin patches Face
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Troll
+  - m_GUID: a209ee514b60b9044bdef1bcbf69967d
+    m_Address: UMA/OverlayDataAsset-Skin Patches
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - Troll
+  - m_GUID: 1233ce5e6d66f7043ae6942431739351
+    m_Address: UMA/OverlayDataAsset-MaleHead02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleBase2
+  - m_GUID: 80ee1b872a449f044bc52611682b7698
+    m_Address: UMA/OverlayDataAsset-MaleBody02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleBase2
+  - m_GUID: 434a9341d6f18de4cbe5a6bff89d3f0d
+    m_Address: UMA/OverlayDataAsset-MaleHair02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleHair
+  - m_GUID: 2efa54ed9091b2045a5d323cec2550cc
+    m_Address: UMA/SlotDataAsset-MaleJeans01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - MaleOutfit1
+  - m_GUID: 14b95a97d992339419108e1bfb596c42
+    m_Address: UMA/SlotDataAsset-JiggleBelly
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - JiggleBellyRecipe
+  - m_GUID: 4c8093fd4489d1d46a72b9e5165f8106
+    m_Address: UMA/SlotDataAsset-JiggleBreasts
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - JiggleBreastsRecipe
+  - m_GUID: 8330dd99316da2b45a5b8f209f6ac121
+    m_Address: UMA/SlotDataAsset-JiggleButt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - JiggleButtRecipe
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 9b53eb1d0f064ad479fea4ab5fcd6e79, type: 2}
   m_SchemaSet:

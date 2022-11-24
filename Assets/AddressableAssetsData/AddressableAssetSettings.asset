@@ -149,6 +149,175 @@ MonoBehaviour:
     - PhysicsStandardRecipe
     - UMA_Base
     - UMA_Recipes
+    - UMA_Default
+    - F_Hair_01_Recipe
+    - F_Hair_02_Recipe
+    - F_Hair_04_Recipe
+    - Plane_004.006_Recipe
+    - F_11_Recipe
+    - FemaleTallShoes_Black
+    - FemaleTallShoes_Turquoise
+    - FemaleTallShoes_White
+    - TallShoes_Black_Recipe
+    - TallShoes_Recipe
+    - FemaleLongHair_Recipe
+    - FemalePonyTail_Recipe
+    - BoneyTail_Recipe
+    - FemaleSportPants_Recipe
+    - FemaleTankTop_Recipe
+    - ShavedHead
+    - MaleHairSlick01_Recipe
+    - MaleShortHair_Recipe
+    - MilCut
+    - MaleBeard1
+    - MaleBeard2
+    - MaleBeard3
+    - MaleBrow01
+    - MaleBrow02
+    - MaleFace Old
+    - MaleHair1
+    - MaleHair3
+    - TrollHead
+    - HumanMale Base Recipe
+    - HumanMaleDCS Base Recipe
+    - HumanMaleLegacy Base Recipe
+    - DNAConverterControllerExample Base Recipe
+    - MaleBeard
+    - MaleHair
+    - MaleAnkles_Recipe
+    - MaleHandsMid
+    - ElfMale Base Recipe
+    - HumanMaleHighPoly
+    - Puck
+    - PuckDCS
+    - Harold
+    - Sven
+    - Troll
+    - MaleHoodie_Recipe
+    - MaleSweatPants_Recipe
+    - FemaleHandsMid
+    - Elf Female Base Race Recipe
+    - HumanFemale Base Recipe
+    - HumanFemaleHighPoly
+    - HumanGirl Base Recipe
+    - HumanFemaleDCS Base Recipe
+    - HumanFemaleLegacy Base Recipe
+    - KimCardassian
+    - Shelly
+    - FemaleSwappedFace
+    - MaleBase2
+    - MaleLowPolyHead
+    - MaleSmoothSkin
+    - MaleShirt1
+    - MaleShirt2
+    - MaleShirt3
+    - OverweightMale
+    - MaleOutfit1
+    - MaleUnderwear
+    - FemaleHair1
+    - FemaleHair
+    - FemaleHairLong
+    - FemaleHair2
+    - FemaleHairShort
+    - FemaleHair3
+    - MaleHair2
+    - FemalePants1
+    - FemalePants2
+    - FemaleOutfit1
+    - FemaleOutfit2
+    - FemaleUnderwear
+    - FemaleShirt1
+    - FemaleShirt4
+    - GirlShirt1
+    - FemaleShirt2
+    - FemaleShirt3
+    - FemaleUndies
+    - FemaleUndies2
+    - MaleBrowHR
+    - MaleBrowHR2
+    - MaleEye1
+    - MaleEye2
+    - MaleEye3
+    - MaleEye4
+    - MaleEye5
+    - MaleGloves
+    - MaleJeans 1
+    - MaleShorts1
+    - MaleShorts2
+    - CHALLENGERCOLLECTION
+    - MaleJeans
+    - MakeMeFatJeans
+    - MalePants
+    - MaleRobe Hood
+    - RobeCollection
+    - MaleRobe Shoes
+    - MaleRobe
+    - F_Hair_03_Recipe
+    - F_Hair_05_Recipe
+    - F_Hair_06_Recipe
+    - F_Hair_07_Recipe
+    - F_Hair_08_Recipe
+    - F_Hair_09_Recipe
+    - F_Hair_11_Recipe
+    - F_Hair_12_Recipe
+    - F_Hair_13_Recipe
+    - F_Hair_14_Recipe
+    - F_Hair_15_Recipe
+    - F_Hair_16_Recipe
+    - F_Hair_17_Recipe
+    - F_Hair_18_Recipe
+    - M_Hair_01_Recipe
+    - M_Hair_02_Recipe
+    - M_Hair_03_Recipe
+    - M_Hair_04_Recipe
+    - M_Hair_05_Recipe
+    - M_Hair_06_Recipe
+    - M_Hair_08_Recipe
+    - M_Hair_09_Recipe
+    - Male_Hair_11_Recipe
+    - Male_Hair_12_Recipe
+    - Male_Hair_13_Recipe
+    - Male_Hair_14_Recipe
+    - Male_Hair_15_Recipe
+    - Male_Hair_16_Recipe
+    - Male_Hair_17_Recipe
+    - M_Beard 01_Recipe
+    - M_Beard 02_Recipe
+    - M_Beard 03_Recipe
+    - M_Beard 04_Recipe
+    - M_Beard 05_Recipe
+    - BlendShapeRecipe
+    - AlienHeadMorph
+    - ElfEarsMorph
+    - FemaleDancer1
+    - ToonSneakers1
+    - ToonDancerCollection
+    - ToonCropTShirt1
+    - ToonHotPants1
+    - FemaleStarDancer1
+    - ToonCapriPants1
+    - ToonStarDancerCollection
+    - ToonHalterNeck1
+    - FemaleToonBase
+    - ToonFemaleUnderwear1
+    - ToonHair1
+    - ToonFancyFlats1
+    - MaleChallengerBoots
+    - MaleChallengerGloves
+    - MaleChallengerShouderPads
+    - MaleChallengerTorso
+    - WerewolfTShirt
+    - Wolfie
+    - AntennaRecipe
+    - SpoilerRecipe
+    - StripesRecipe
+    - SkyCarBaseRecipe
+    - ClothRobeRecipe
+    - FemaleToonBaseGuide
+    - GirlBaseGuide
+    - JiggleBellyRecipe
+    - JiggleBreastsRecipe
+    - JiggleButtRecipe
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: f7288aff63e646042bfbf6567de807bf, type: 2}
