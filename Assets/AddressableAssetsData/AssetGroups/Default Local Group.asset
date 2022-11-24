@@ -16,7 +16,11 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 9e772eb661ecd8f47af0223ba99ab6ea
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 69c28e38aa9a02743a3db9a9662159b0
+    m_Address: Assets/HairTest/Plane_004.006/Plane_004.006_Slot.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 9b53eb1d0f064ad479fea4ab5fcd6e79, type: 2}
   m_SchemaSet:

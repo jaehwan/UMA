@@ -1,20 +1,8 @@
 fileFormatVersion: 2
-guid: 58fe7aa86560f3b40b53e8d66c41e95f
+guid: e4b061233ec7d7d439e8090261139a7d
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable:
-  - first:
-      74: 1067961233112919050
-    second: st_armature|st_male
-  - first:
-      74: 1424268361023370023
-    second: st_armature|st_male.001
-  - first:
-      74: -6088443290928896401
-    second: st_armature|st_Morphs
-  - first:
-      74: 3822132244469108661
-    second: st_armature|T-Pose
+  internalIDToNameTable: []
   externalObjects: {}
   materials:
     materialImportMode: 2
