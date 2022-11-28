@@ -3076,13 +3076,6 @@ MonoBehaviour:
     - UMA_Default
     - BoneyTail_Recipe
     - PhysicsStandardRecipe
-  - m_GUID: 69c28e38aa9a02743a3db9a9662159b0
-    m_Address: UMA/SlotDataAsset-Plane_004.006
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UMA_Base
-    - UMA_Default
-    - Plane_004.006_Recipe
   - m_GUID: 8a7fc4b8be9544945bbb404f8ba33180
     m_Address: UMA/SlotDataAsset-F_11
     m_ReadOnly: 0
