@@ -318,6 +318,9 @@ MonoBehaviour:
     - JiggleBellyRecipe
     - JiggleBreastsRecipe
     - JiggleButtRecipe
+    - F_05_Recipe
+    - Hair 6_Recipe
+    - hair_6_acc_Recipe
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: f7288aff63e646042bfbf6567de807bf, type: 2}
