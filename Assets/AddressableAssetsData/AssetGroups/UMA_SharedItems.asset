@@ -2838,8 +2838,8 @@ MonoBehaviour:
     - UMA_Base
     - UMA_Default
     - F_Hair_09_Recipe
-  - m_GUID: 8e80901f774f16b4ca19c0cb4676fc10
-    m_Address: UMA/SlotDataAsset-F_8
+  - m_GUID: 3e845401df27f2040bf7d833fecc3e55
+    m_Address: UMA/SlotDataAsset-F_08
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
