@@ -2763,6 +2763,16 @@ MonoBehaviour:
     - UMA_Base
     - UMA_Default
     - F_Hair_14_Recipe
+  - m_GUID: 688133607be1ab4478a3a067552161ec
+    m_Address: UMA/OverlayDataAsset-Hair Band_Overlay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - F_Hair_13_Recipe
+    - M_Hair_03_Recipe
+    - Male_Hair_14_Recipe
+    - Male_Hair_15_Recipe
   - m_GUID: 827ec735453c4a74782134e986044d1b
     m_Address: UMA/SlotDataAsset-F_Hair_13_Band
     m_ReadOnly: 0
@@ -2791,28 +2801,12 @@ MonoBehaviour:
     - UMA_Base
     - UMA_Default
     - F_Hair_11_Recipe
-  - m_GUID: d55d3f07ae2391847b6d35a63f2bcb39
-    m_Address: UMA/SlotDataAsset-F_Hair_09
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UMA_Base
-    - UMA_Default
-    - F_Hair_09_Recipe
-  - m_GUID: 9818acbad2ca55144831a58fff6b1705
-    m_Address: UMA/SlotDataAsset-F_Hair_08
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UMA_Base
-    - UMA_Default
-    - F_Hair_08_Recipe
   - m_GUID: 1f2d9c6ed47ae954ea799698a940ab0f
     m_Address: UMA/OverlayDataAsset-Hairpack_Hair_Overlay
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
     - UMA_Default
-    - F_Hair_07_Recipe
-    - F_Hair_08_Recipe
     - F_Hair_09_Recipe
     - F_Hair_11_Recipe
     - F_Hair_12_Recipe
@@ -2837,26 +2831,22 @@ MonoBehaviour:
     - Male_Hair_15_Recipe
     - Male_Hair_16_Recipe
     - Male_Hair_17_Recipe
-  - m_GUID: e905008884f16614bb76523f1fe66571
-    m_Address: UMA/SlotDataAsset-F_Hair_07
+  - m_GUID: d55d3f07ae2391847b6d35a63f2bcb39
+    m_Address: UMA/SlotDataAsset-F_Hair_09
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
     - UMA_Default
-    - F_Hair_07_Recipe
-  - m_GUID: 688133607be1ab4478a3a067552161ec
-    m_Address: UMA/OverlayDataAsset-Hair Band_Overlay
+    - F_Hair_09_Recipe
+  - m_GUID: 8e80901f774f16b4ca19c0cb4676fc10
+    m_Address: UMA/SlotDataAsset-F_8
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
     - UMA_Default
-    - F_Hair_07_Recipe
-    - F_Hair_13_Recipe
-    - M_Hair_03_Recipe
-    - Male_Hair_14_Recipe
-    - Male_Hair_15_Recipe
-  - m_GUID: cd54caff9faa3e549a0759828d637cc2
-    m_Address: UMA/SlotDataAsset-F_Hair_07 Band
+    - F_Hair_08_Recipe
+  - m_GUID: 8b0f0a54652d0e743a3872297cf5567f
+    m_Address: UMA/SlotDataAsset-F_hair_07
     m_ReadOnly: 0
     m_SerializedLabels:
     - UMA_Base
@@ -2869,6 +2859,13 @@ MonoBehaviour:
     - UMA_Base
     - UMA_Default
     - F_Hair_06_Recipe
+  - m_GUID: db615cf96f6c8754d91d47b84ae6c7c1
+    m_Address: UMA/SlotDataAsset-F_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - F_Hair_04_Recipe
   - m_GUID: b2793d3bab966b743a6318b2a67036f9
     m_Address: UMA/SlotDataAsset-F_03
     m_ReadOnly: 0
@@ -4117,7 +4114,10 @@ MonoBehaviour:
     - F_Hair_01_Recipe
     - F_Hair_02_Recipe
     - F_Hair_03_Recipe
+    - F_Hair_04_Recipe
     - F_Hair_06_Recipe
+    - F_Hair_07_Recipe
+    - F_Hair_08_Recipe
     - F_11_Recipe
     - F_Hair_05_Recipe
   - m_GUID: e68fbc4b55ac9274b83e85974c916709
