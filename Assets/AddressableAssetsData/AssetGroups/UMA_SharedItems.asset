@@ -2011,13 +2011,6 @@ MonoBehaviour:
     - UMA_Base
     - UMA_Default
     - F_Hair_05_Recipe
-  - m_GUID: f3b939e0cf5cd454c9c5ec53aa795008
-    m_Address: UMA/SlotDataAsset-hair_6_acc
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UMA_Base
-    - UMA_Default
-    - hair_6_acc_Recipe
   - m_GUID: 8a7fc4b8be9544945bbb404f8ba33180
     m_Address: UMA/SlotDataAsset-F_11
     m_ReadOnly: 0
@@ -2876,13 +2869,6 @@ MonoBehaviour:
     - UMA_Base
     - UMA_Default
     - F_Hair_06_Recipe
-  - m_GUID: db615cf96f6c8754d91d47b84ae6c7c1
-    m_Address: UMA/SlotDataAsset-hair_04
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UMA_Base
-    - UMA_Default
-    - F_Hair_04_Recipe
   - m_GUID: b2793d3bab966b743a6318b2a67036f9
     m_Address: UMA/SlotDataAsset-F_03
     m_ReadOnly: 0
@@ -2890,6 +2876,13 @@ MonoBehaviour:
     - UMA_Base
     - UMA_Default
     - F_Hair_03_Recipe
+  - m_GUID: c811bfd1fffe54f4f84a94cbb6e94c7e
+    m_Address: UMA/SlotDataAsset-F_02_Slot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - F_Hair_02_Recipe
   - m_GUID: 518d96f7d2e02c64fabaae557f83e781
     m_Address: UMA/SlotDataAsset-F_01
     m_ReadOnly: 0
@@ -4122,8 +4115,8 @@ MonoBehaviour:
     - st_female_long_hair_Recipe
     - st_long_hair_male_Recipe
     - F_Hair_01_Recipe
+    - F_Hair_02_Recipe
     - F_Hair_03_Recipe
-    - F_Hair_04_Recipe
     - F_Hair_06_Recipe
     - F_11_Recipe
     - F_Hair_05_Recipe
