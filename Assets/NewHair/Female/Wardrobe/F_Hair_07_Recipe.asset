@@ -21,7 +21,7 @@ MonoBehaviour:
   wardrobeRecipeThumbs:
   - race: o3n Stunner Jane
     filename: 
-    thumb: {fileID: 0}
+    thumb: {fileID: 21300000, guid: a41457b4ec83b2843b1737c94f85f405, type: 3}
   wardrobeSlot: Hair
   Hides: []
   HideTags: []
