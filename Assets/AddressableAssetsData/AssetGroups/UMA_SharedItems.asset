@@ -1997,6 +1997,13 @@ MonoBehaviour:
     - UMA_Base
     - UMA_Default
     - stPhysicsStandardRecipe
+  - m_GUID: cd5a745e8a02ada41b767bc37ff4bc45
+    m_Address: UMA/SlotDataAsset-SK_HAIR_04_loose
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - SK_HAIR_04_loose_Recipe
   - m_GUID: 04d0c270e0af393439e9141580094bde
     m_Address: UMA/SlotDataAsset-SK_HAIR_01_loose
     m_ReadOnly: 0
@@ -4137,6 +4144,7 @@ MonoBehaviour:
     - SK_HAIR_02_short_Recipe
     - SK_HAIR_03_back_Recipe
     - SK_HAIR_01_loose_Recipe
+    - SK_HAIR_04_loose_Recipe
   - m_GUID: e68fbc4b55ac9274b83e85974c916709
     m_Address: UMA/SlotDataAsset-st_female_long_hair_LOD0
     m_ReadOnly: 0

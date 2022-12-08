@@ -324,6 +324,7 @@ MonoBehaviour:
     - SK_HAIR_02_short_Recipe
     - SK_HAIR_03_back_Recipe
     - SK_HAIR_01_loose_Recipe
+    - SK_HAIR_04_loose_Recipe
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: f7288aff63e646042bfbf6567de807bf, type: 2}
