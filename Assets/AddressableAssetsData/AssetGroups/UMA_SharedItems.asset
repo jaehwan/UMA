@@ -17,13 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 7a3a3356d8c4f0f4aa7299d461dc5d0a
   m_SerializeEntries:
-  - m_GUID: 4c8093fd4489d1d46a72b9e5165f8106
-    m_Address: UMA/SlotDataAsset-JiggleBreasts
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UMA_Base
-    - UMA_Default
-    - JiggleBreastsRecipe
   - m_GUID: 14b95a97d992339419108e1bfb596c42
     m_Address: UMA/SlotDataAsset-JiggleBelly
     m_ReadOnly: 0
@@ -1997,6 +1990,27 @@ MonoBehaviour:
     - UMA_Base
     - UMA_Default
     - stPhysicsStandardRecipe
+  - m_GUID: 829ad5313fbe9c245a016e0418f670d3
+    m_Address: UMA/SlotDataAsset-SK_HAIR_BANGS_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - SK_HAIR_BANGS_01_Recipe
+  - m_GUID: 7752cb95f5214c641a5271c7addc6ef7
+    m_Address: UMA/SlotDataAsset-SK_HAIR_06_ponytail
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - SK_HAIR_06_ponytail_Recipe
+  - m_GUID: f696538e1dc48f541882a863d0685bd5
+    m_Address: UMA/SlotDataAsset-SK_HAIR_05_bun
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - SK_HAIR_05_bun_Recipe
   - m_GUID: cd5a745e8a02ada41b767bc37ff4bc45
     m_Address: UMA/SlotDataAsset-SK_HAIR_04_loose
     m_ReadOnly: 0
@@ -2887,13 +2901,6 @@ MonoBehaviour:
     - UMA_Base
     - UMA_Default
     - F_Hair_04_Recipe
-  - m_GUID: b2793d3bab966b743a6318b2a67036f9
-    m_Address: UMA/SlotDataAsset-F_03
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UMA_Base
-    - UMA_Default
-    - F_Hair_03_Recipe
   - m_GUID: c811bfd1fffe54f4f84a94cbb6e94c7e
     m_Address: UMA/SlotDataAsset-F_02_Slot
     m_ReadOnly: 0
@@ -4134,7 +4141,6 @@ MonoBehaviour:
     - st_long_hair_male_Recipe
     - F_Hair_01_Recipe
     - F_Hair_02_Recipe
-    - F_Hair_03_Recipe
     - F_Hair_04_Recipe
     - F_Hair_06_Recipe
     - F_Hair_07_Recipe
@@ -4145,6 +4151,9 @@ MonoBehaviour:
     - SK_HAIR_03_back_Recipe
     - SK_HAIR_01_loose_Recipe
     - SK_HAIR_04_loose_Recipe
+    - SK_HAIR_05_bun_Recipe
+    - SK_HAIR_06_ponytail_Recipe
+    - SK_HAIR_BANGS_01_Recipe
   - m_GUID: e68fbc4b55ac9274b83e85974c916709
     m_Address: UMA/SlotDataAsset-st_female_long_hair_LOD0
     m_ReadOnly: 0
@@ -5070,6 +5079,13 @@ MonoBehaviour:
     - st_long_hair_male_Recipe
     - st_short_hair_Recipe
     - o3nStunnerMaleBaseRecipe
+  - m_GUID: 4c8093fd4489d1d46a72b9e5165f8106
+    m_Address: UMA/SlotDataAsset-JiggleBreasts
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Base
+    - UMA_Default
+    - JiggleBreastsRecipe
   - m_GUID: 8330dd99316da2b45a5b8f209f6ac121
     m_Address: UMA/SlotDataAsset-JiggleButt
     m_ReadOnly: 0
