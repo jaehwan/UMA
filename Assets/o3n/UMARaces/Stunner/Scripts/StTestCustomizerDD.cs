@@ -99,14 +99,29 @@ namespace UMA.CharacterSystem.Examples
 			UMA.UMAData umaData = Avatar.umaData;
 			var currentColorDropdowns = colorDropdownPanel.transform.GetComponentsInChildren<CSColorChangerDD>(true);
 			List<string> activeColorDropdowns = new List<string>();
-			//foreach (DynamicCharacterAvatar.ColorValue colorType in Avatar.characterColors.Colors)
-			//using new colorvaluestuff
-			foreach (OverlayColorData colorType in Avatar.characterColors.Colors)
+            //foreach (DynamicCharacterAvatar.ColorValue colorType in Avatar.characterColors.Colors)
+            //using new colorvaluestuff
+
+            Dictionary<string, DnaSetter> dnas = Avatar.GetDNA();
+
+			foreach(var dna in dnas)
 			{
+				Debug.Log(dna.Key + " : " + dna.Value);
+            }
+			
+
+
+            // umaData.umaRecipe.sharedColors
+
+
+            foreach (OverlayColorData colorType in Avatar.characterColors.Colors)
+			{
+				// colorDNA로 시작 되는거는 제외 한다. 
 				if (colorType.name.StartsWith("colorDNA"))
 				{
 					continue;
 				}
+
 				activeColorDropdowns.Add(colorType.name);
 				bool dropdownExists = false;
 				foreach (CSColorChangerDD colorDropdown in currentColorDropdowns)
