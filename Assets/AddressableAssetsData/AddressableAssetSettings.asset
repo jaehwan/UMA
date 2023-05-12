@@ -38,8 +38,6 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 42dcf54ab2848fe4db59e7576c15a54d, type: 2}
   - {fileID: 11400000, guid: c568a4b45dbc010438c989c7344090df, type: 2}
-  - {fileID: 11400000, guid: 89b80ff59fdcd64458e916f5486a13d8, type: 2}
-  - {fileID: 11400000, guid: 517cffab9baeb7a4f8ac563794c87769, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -329,6 +327,10 @@ MonoBehaviour:
     - SK_HAIR_05_bun_Recipe
     - SK_HAIR_06_ponytail_Recipe
     - SK_HAIR_BANGS_01_Recipe
+    - ToonTopsBundle
+    - SK_HAIR_BANGS_02_Recipe
+    - SK_HAIR_BANGS_03_Recipe
+    - SK_HAIR_BANGS_04_Recipe
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: f7288aff63e646042bfbf6567de807bf, type: 2}
