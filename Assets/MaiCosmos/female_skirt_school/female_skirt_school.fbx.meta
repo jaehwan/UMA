@@ -4,6 +4,21 @@ ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
   - first:
+      74: -5823665003725457254
+    second: st_armature|st_armature.001|st_armature|st_male
+  - first:
+      74: -122871525108643645
+    second: st_armature|st_armature.001|st_armature|st_male.001
+  - first:
+      74: -3904208181568133714
+    second: st_armature|st_armature.001|st_armature|st_male.002
+  - first:
+      74: 6249536399498982952
+    second: st_armature|st_armature.001|st_armature|st_Morphs
+  - first:
+      74: 9194764546522774237
+    second: st_armature|st_armature.001|st_armature|T-Pose
+  - first:
       74: 1067961233112919050
     second: st_armature|st_male
   - first:
@@ -22,7 +37,7 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: lambert4
+      name: lambert4.005
     second: {fileID: 2100000, guid: f083b8640a4ac8542bb5938a09308c0f, type: 2}
   materials:
     materialImportMode: 2
@@ -93,7 +108,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 1
+  importAnimation: 0
   humanDescription:
     serializedVersion: 3
     human: []
