@@ -8565,7 +8565,7 @@ Transform:
   - {fileID: 744976472}
   m_Father: {fileID: 89313308}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 106.75, y: 10.279007, z: 14.341003}
+  m_LocalEulerAnglesHint: {x: 94.10199, y: 90.215, z: 93.682}
 --- !u!1 &709150063
 GameObject:
   m_ObjectHideFlags: 0
@@ -21795,7 +21795,7 @@ Transform:
   - {fileID: 1113441364}
   m_Father: {fileID: 89313308}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 117.29401, y: 27.074005, z: 29.957993}
+  m_LocalEulerAnglesHint: {x: 104.05301, y: 69.965, z: 70.565}
 --- !u!1 &2074849728
 GameObject:
   m_ObjectHideFlags: 0
@@ -22797,13 +22797,13 @@ MonoBehaviour:
     - _recipeName: st_female_long_hair_Recipe
       _compatibleRaces:
       - o3n Stunner Jane
-    - _recipeName: female_skirt_school_Recipe
-      _compatibleRaces:
-      - o3n Stunner Jane
     - _recipeName: FemaleShirt1
       _compatibleRaces:
       - HumanFemaleDCS
       - HumanFemale
+    - _recipeName: female_skirt_school_Recipe
+      _compatibleRaces:
+      - o3n Stunner Jane
   raceAnimationControllers:
     defaultAnimationController: {fileID: 9100000, guid: e9562fa2267f43b4f965ada91b46b340, type: 2}
     animators: []
