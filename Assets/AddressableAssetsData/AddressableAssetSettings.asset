@@ -38,6 +38,9 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 42dcf54ab2848fe4db59e7576c15a54d, type: 2}
   - {fileID: 11400000, guid: c568a4b45dbc010438c989c7344090df, type: 2}
+  - {fileID: 11400000, guid: 5c2aa69fa3c137f40aa61466f42be60e, type: 2}
+  - {fileID: 11400000, guid: 88771f334cd84cb41acb99f7c91d4051, type: 2}
+  - {fileID: 11400000, guid: 535d12d2420db3b47b89e6a35f7149f1, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -331,6 +334,8 @@ MonoBehaviour:
     - SK_HAIR_BANGS_02_Recipe
     - SK_HAIR_BANGS_03_Recipe
     - SK_HAIR_BANGS_04_Recipe
+    - female_skirt_school_Recipe
+    - female_shirts_school_Recipe
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: f7288aff63e646042bfbf6567de807bf, type: 2}

@@ -115,7 +115,17 @@ namespace UMA.CharacterSystem.Examples
         private void Recipes_Loaded(UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationHandle<IList<Object>> obj)
 		{
             Debug.Log("Recipes loaded: " + obj.Status.ToString());
-            Avatar.gameObject.SetActive(true);
+
+            if (obj.Status == UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationStatus.Succeeded)
+            {
+
+                foreach (Object item in obj.Result)
+                {
+                    Debug.Log("add item " + item.name);
+                }
+
+                Avatar.gameObject.SetActive(true);
+            }
 		}
 
         private void Asyncop_Completed(UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationHandle<IList<Object>> obj)

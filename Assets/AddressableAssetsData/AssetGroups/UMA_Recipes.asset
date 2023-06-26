@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UMA_Recipes
+  m_EditorClassIdentifier: 
+  m_GroupName: UMA_Recipes
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a3bafd8a9065d124d9642017e93d2d30
+  m_SerializeEntries:
+  - m_GUID: d5ce8629cd63baf43b69667c1ab39ae8
+    m_Address: Assets/MaiCosmos/female_shirts_school/female_shirts_school_Recipe.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Recipes
+  - m_GUID: b41bfce89da15c940a11e88257803529
+    m_Address: Assets/MaiCosmos/female_skirt_school/female_skirt_school_Recipe.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UMA_Recipes
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9b53eb1d0f064ad479fea4ab5fcd6e79, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d2e51518980be8148b93a3195dd378c6, type: 2}
+    - {fileID: 11400000, guid: 8c38743f3c55b164ea6ed063eab67d00, type: 2}
